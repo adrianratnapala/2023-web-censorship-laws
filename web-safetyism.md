@@ -1,11 +1,34 @@
-SAY "INTERNET SAFETYISM: EARLY AND OFTEn
-
 This age of internet censorship should have been the chance for the free world
-to show America the inferiority of it's ways, but as always in the affairs
-constitutional, the powers that be are determined to vindicate the most
-paranoid rantings of gun-toting, liberty fanatics from James Madison onwards.
+to show America the inferiority of it's ways.  But, thanks to the rise of web
+safetyism, governments around the world instead determined to vindicate the
+most paranoid rantings of gun-toting, liberty fanatics from James Madison
+onwards.  Governments are starting to make censorship mandatory, and America's
+constitutional order is starting to look like the world's only line of defense.
 
-The first Amendment to the US constitution says:
+So far in this millenium, public discourse onto digital platforms owned and
+controlled by a handful of private companies. There might have been a time,
+back when Twitter's then CEO Jack Dorsey was lauded for calling his company
+"the free speech wing of the free speech party", that the large digital
+platforms instinctively respected their users and saw their mission as
+connecting those users to their desired sources of information.
+
+But over time, these platforms drifted towards an idealogy we might call "web
+safetyism" which holds that the duty of these companies is not to respect their
+users but to protect them, to serve them but not when they request information
+understood to be hate speech, misinformation, disinformation or otherwise
+harmful.
+
+History has seen this script before, every regime of censorship has claimed to
+protect the public from harmful discourse. But no regime can have privileged,
+prior knowledge of what is true and good -- it can only know and uphold the
+approved narrative.  This principle is the well-known, time tested basis of
+free speech; it is so well-known and time tested that it has become boring. The
+managers of modern corporations, and the web-safety industry that pressures
+it are not obliged to pay attention to it.
+
+They are, however, obliged to follow the law and every country has a
+constitutional order underpinning it's own laws.  In the United States, a
+centrepiece of that order is the first Amendment, which says:
 
 > Congress shall make no law respecting an establishment of religion, or
 > prohibiting the free exercise thereof; or abridging the freedom of speech, or
@@ -13,13 +36,49 @@ The first Amendment to the US constitution says:
 > petition the government for a redress of grievances.
 
 Under modern case law, this becomes a stunningly broad limit on the powers of
-government. Going far beyond the literal text, it prohibits any arm on any
-American governments, whether federal, state or local from abridging the
-freedom of speech or the press. Although all free countries espouse the freedom
-of speech, few are so willing to clip government's wings. [Article
-5](https://www.gesetze-im-internet.de/gg/art_5.html) of Germany's constitution
-for example avers that "These [free expression] rights shall find their limits
+government. Going far beyond the literal text, it tightly constrains the power
+of any arm of any American government, whether federal, state or to abridging
+the freedom of speech or the press. Although all free countries espouse the
+freedom of speech, few are so willing to clip government's wings. For example,
+[article 5](https://www.gesetze-im-internet.de/gg/art_5.html) of Germany's
+constitution avers that "These [free expression] rights shall find their limits
 in the provisions of general laws."
+
+[UNPACK THE WEB SAFETY INDUSTRY]
+
+More recently however, the platforms have moved to respecting whatever powers
+and social forces set the bounds of acceptable speech (at least as
+acceptability is perceived among affluent, blue-state Americans).  This would
+be fine if these platforms were merely a handful of publishers among many. But
+no, they are called platforms for a reason - they are the platforms on which
+modern public discourse happens and increasingly they have decided that this
+discourse my only reflect one particular world v
+[SNIP But defenders of free speech see a new threat as public discourse has moved
+onto digital platforms owned and controleld by a handful of private companies.
+Even American courts have refused to apply the 1st Amendment to dealings that
+private entities have with each other.  
+]
+
+
+They 
+have good reasons for their reluctance. For example, if hostess Alice is
+perfectly entitled to throw Holocaust denying Bob out of her dinner party, even
+though Holocaust denial is protected by the first Amendment.  At least until
+some positive statue says otherwise, Bob will just have to exercise is right
+elsewhere; and even such statutes will have to respect with Alice's own rights
+of free speech and association.
+
+
+
+
+All this becomes a very live issue when we encounter censorship by digital
+platforms. Services such as a social network and search engines are not
+telephone lines; when we engage these services we want them to filter out spam,
+or rank order search results.  We neither desire nor expect a passively neutral
+conduit of information.
+
+
+
 
 But even American courts have refused to apply the 1st Amendment to dealings
 that private persons have with each other.  For example, hostess Alice is
@@ -41,19 +100,12 @@ not by social desirability and if a message is filtered away as spam, that
 should be because the user does not want it -- not because someone decided the
 user _ought_ not want it.
 
-There might have been a time, back when Twitter's then CEO Jack Dorsey was
-lauded for calling his company "the free speech wing of the free speech party",
-that the large digital platforms instinctively respected their users and saw
-their mission as connecting those users to their desired sources of
-information.
+[SNIP There might have been a time, back when Twitter's then CEO Jack Dorsey was
+...
+]
 
-More recently however, the platforms have moved to respecting whatever powers
-and social forces set the bounds of acceptable speech (at least as
-acceptability is perceived among affluent, blue-state Americans).  This would
-be fine if these platforms were merely a handful of publishers among many. But
-no, they are called platforms for a reason - they are the platforms on which
-modern public discourse happens and increasingly they have decided that this
-discourse my only reflect one particular world view.
+[SNIP More recently however, the platforms have moved to respecting whatever powers
+...]
 
 Of course that is not how the proponents of censorship present the matter. They
 talk instead of the responsibility for platforms to combat harmful, hateful or
