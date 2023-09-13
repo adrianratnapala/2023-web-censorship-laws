@@ -12,7 +12,7 @@ back when Twitter's then CEO Jack Dorsey was lauded for calling his company
 platforms instinctively respected their users and saw their mission as
 connecting those users to their desired sources of information.
 
-But over time, these platforms drifted towards an idealogy we might call "web
+But over time, these platforms drifted towards an ideology we might call "web
 safetyism" which holds that the duty of these companies is not to respect their
 users but to protect them, to serve them but not when they request information
 understood to be hate speech, misinformation, disinformation or otherwise
@@ -22,10 +22,20 @@ History has seen this script before, every regime of censorship has claimed to
 protect the public from harmful discourse. But no regime can have privileged,
 prior knowledge of what is true and good -- it can only know and uphold the
 approved narrative.  This principle is the well-known, time tested basis of
-free speech; it is so well-known and time tested that it has become boring. The
-managers of modern corporations, and the web-safety industry that pressures
-it are not obliged to pay attention to it.
+free speech; it is so well-known and time tested that it has become boring
+and has little hold on the minds of middle-managers.
 
+What does have hold their attention is the censorship industry speaking
+language of web safety. There is a network of organisations in government,
+acedemia and the nonprofit sector which earn their keep by warning of the
+dangers of harmful information and offering the helpful service of telling the
+rest of the world what information is harmful. [LINK Schellenberger, or Tiabbi,
+look into the RMIT Fact Lab debacle].
+
+The censorship industry has a self-justifying ideology about the importance
+connecting the public to trusted source of information and protecting it from
+harmful ideas. This ideology has been known and refuted since the
+Englightenment, but the hacks of the industry aren't obliged to pay attention.
 They are, however, obliged to follow the law and every country has a
 constitutional order underpinning it's own laws.  In the United States, a
 centrepiece of that order is the first Amendment, which says:
