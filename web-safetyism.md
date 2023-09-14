@@ -54,7 +54,32 @@ For example, [article 5](https://www.gesetze-im-internet.de/gg/art_5.html) of
 Germany's constitution avers that "These [free expression] rights shall find
 their limits in the provisions of general laws."
 
-These differences as crystalise different philosophical camps within
+American courts have however stopped short of applying their First Amendment to
+the dealings that private entities have with each other.  There are good rasons
+for this: if hostess Alice is perfectly entitled to throw Holocaust denying Bob
+out of her dinner party, even though Holocaust denial is protected by the first
+Amendment.  At least until some positive statue says otherwise, Bob will just
+have to exercise is right elsewhere; and even such statutes will have to
+respect with Alice's own rights of free speech and association.
+
+All this becomes a very live issue when we encounter censorship by digital
+platforms. Services such as a social network and search engines are not
+telephone lines; when we engage these services we want them to filter out spam,
+or rank order search results.  We neither desire nor expect a passively neutral
+conduit of information. Yet we can desire  an _active neutrality_ that respects
+the user. Searches should rank results by relevance to the user, and not by
+social desirability and if a message is filtered away as spam, that should be
+because the user does not want it.
+
+Instead, thanks to web safetyism, the platforms began to filter based on what
+user _ought_ to want.  They chose to respect the censorship industry more than
+their users. This would be one thing these platforms were merely a handful of
+publishers among many. But no, they are called platforms for a reason; they are
+the platforms on which modern public discourse happen. By turning to censorship
+they threaten the playing field on which democracy plays out.
+
+
+These differences crystalise as different philosophical camps within
 liberalism. One camp is that of James Madison who wrote down the 1st Amendment
 and always understood it (unlike most of his revolutionary colleagues) to
 prohibit laws abridiging free speech.  The other camp might be named after
@@ -62,70 +87,6 @@ John Stuart Mill, who warned against the tyranny of prevailing opinion in
 addition to government.
 
 
-
-
-[UNPACK THE WEB SAFETY INDUSTRY]
-
-More recently however, the platforms have moved to respecting whatever powers
-and social forces set the bounds of acceptable speech (at least as
-acceptability is perceived among affluent, blue-state Americans).  This would
-be fine if these platforms were merely a handful of publishers among many. But
-no, they are called platforms for a reason - they are the platforms on which
-modern public discourse happens and increasingly they have decided that this
-discourse my only reflect one particular world v
-[SNIP But defenders of free speech see a new threat as public discourse has moved
-onto digital platforms owned and controleld by a handful of private companies.
-Even American courts have refused to apply the 1st Amendment to dealings that
-private entities have with each other.  
-]
-
-
-They 
-have good reasons for their reluctance. For example, if hostess Alice is
-perfectly entitled to throw Holocaust denying Bob out of her dinner party, even
-though Holocaust denial is protected by the first Amendment.  At least until
-some positive statue says otherwise, Bob will just have to exercise is right
-elsewhere; and even such statutes will have to respect with Alice's own rights
-of free speech and association.
-
-
-
-
-All this becomes a very live issue when we encounter censorship by digital
-platforms. Services such as a social network and search engines are not
-telephone lines; when we engage these services we want them to filter out spam,
-or rank order search results.  We neither desire nor expect a passively neutral
-conduit of information.
-
-
-
-
-But even American courts have refused to apply the 1st Amendment to dealings
-that private persons have with each other.  For example, hostess Alice is
-perfectly entitled to throw Holocaust denying Bob out of her dinner party, even
-though Holocaust denial is protected by the first Amendment.  At least until
-some positive statue says otherwise, Bob will just have to exercise is right
-elsewhere; and even such statutes will have to respect with Alice's own rights
-of free speech and association.
-
-All this becomes a very live issue when we encounter censorship by digital
-platforms. Services such as a social network and search engines are not
-telephone lines; when we engage these services we want them to filter out spam,
-or rank order search results.  We neither desire nor expect a passively neutral
-conduit of information.
-
-Yet we can desire (but increasingly cannot expect) an active neutrality that
-respects the user. Searches should rank results by relevance to the user, and
-not by social desirability and if a message is filtered away as spam, that
-should be because the user does not want it -- not because someone decided the
-user _ought_ not want it.
-
-[SNIP There might have been a time, back when Twitter's then CEO Jack Dorsey was
-...
-]
-
-[SNIP More recently however, the platforms have moved to respecting whatever powers
-...]
 
 Of course that is not how the proponents of censorship present the matter. They
 talk instead of the responsibility for platforms to combat harmful, hateful or
