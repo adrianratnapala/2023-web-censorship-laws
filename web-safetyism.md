@@ -45,14 +45,24 @@ centrepiece of that order is the first Amendment, which says:
 > of the press; or the right of the people peaceably to assemble, and to
 > petition the government for a redress of grievances.
 
-Under modern case law, this becomes a stunningly broad limit on the powers of
-government. Going far beyond the literal text, it tightly constrains the power
-of any arm of any American government, whether federal, state or to abridging
-the freedom of speech or the press. Although all free countries espouse the
-freedom of speech, few are so willing to clip government's wings. For example,
-[article 5](https://www.gesetze-im-internet.de/gg/art_5.html) of Germany's
-constitution avers that "These [free expression] rights shall find their limits
-in the provisions of general laws."
+Under modern case law, this has become a stunningly broad limit on the powers
+of government. Going far beyond the literal text, it tightly constrains the
+power of any arm of any American government, whether federal, state or to
+abridging the freedom of speech or the press. Although all free countries
+espouse the freedom of speech, few are so willing to clip government's wings.
+For example, [article 5](https://www.gesetze-im-internet.de/gg/art_5.html) of
+Germany's constitution avers that "These [free expression] rights shall find
+their limits in the provisions of general laws."
+
+These differences as crystalise different philosophical camps within
+liberalism. One camp is that of James Madison who wrote down the 1st Amendment
+and always understood it (unlike most of his revolutionary colleagues) to
+prohibit laws abridiging free speech.  The other camp might be named after
+John Stuart Mill, who warned against the tyranny of prevailing opinion in
+addition to government.
+
+
+
 
 [UNPACK THE WEB SAFETY INDUSTRY]
 
