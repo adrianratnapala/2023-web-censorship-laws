@@ -111,84 +111,85 @@ that. These law do not subject individual decisions to censor to any legal
 procedure, instead they are left to up to risk-averse corporations who need to
 stay in the good-books of a regulator.
 
-These laws are not simply the result of countries without a America's First
-Amendment culture carrying on with their own constitutional norms. They are a
-dodge around those norms. Democarcies have boasted free speech because citizens
-can't be muzzled at the mere say-so of some censor. Speech can only be limited
-by definite laws.  That's why Germany's constitution names **general** laws
-(along with the protection of young persons and the right to personal honour)
-as the limits on free speech.
+These laws are not simply an expression of these countries own constitutional
+norms. They are a dodge around those norms. Democarcies boast speech because
+citizens can't be muzzled at the mere say-so of some censor. Even in
+democracies with nothing like America's First Amendment, speech can only be
+limited by definite laws. That's why Germany's constitution names **general**
+laws (along with the protection of young persons and the right to personal
+honour) as the limits on free speech.
 
-Today's intermediated internet is far less protective of expression. Posts can
-quietly disappear or be down-ranked without the action ever being acknowledged,
-let alone justified relative to some legal standard. This has let even the
-American government in on the dodge as is best documented in the [Twitter
-Files][TRACK DOWN LINK].
+Today's intermediated internet is far less protective than this tradition.
+Posts can quietly disappear or be down-ranked without the action ever being
+acknowledged, let alone justified relative to some legal standard. Governments
+and the censorship industry have not been shy about taking advantage of the
+opportunity to skirt their own norms. 
 
-Reporting from [NAME SOME TWITTER FILE REPORTERS] which show the elaborately
-organised channels through which American security agencies gave instructions
-to Twitter and other companies about what information to suppress. The
-censorship ranged from stamping down on Covid [FIND LINK] heterodoxy to
-protecting prominent politicians from scandalous revelations [FIND HB LAPTOP
-LINK]. [REREAD SOME TWITTER-FILES REPORTAGE AND REWRITE THIS].
+The American government is exception, as is best documented in the [Twitter
+Files][TRACK DOWN LINKS & REPORTERS NAMES]. This reporting from [NAME SOME
+TWITTER FILE REPORTERS] which shows the elaborately organised channels through
+which American security agencies gave instructions to Twitter and other
+companies about what information to suppress. The censorship ranged from
+stamping down on Covid [FIND LINK] heterodoxy to protecting prominent
+politicians from scandalous revelations [FIND HB LAPTOP LINK]. [REREAD SOME
+TWITTER-FILES REPORTAGE AND REWRITE THIS].
 
-American courts are now being asked to rule on how this apparent violation of
-the first Amendment [LINK TO CASES]. Some American states have also started to
-legislate against censorship by digital platforms [TEXAS HB20, FLORIDA BILL] --
-and these laws are themselves been tested in court against the First Amendment.
+American courts are now being asked to rule on how deal with this apparent
+violation of the first Amendment [LINK TO CASES]. Some American states have
+also started to legislate against censorship by digital platforms [TEXAS HB20,
+FLORIDA BILL] -- and these laws are themselves been tested in court against the
+First Amendment.
 
 But the most potent response of all has been from the market.  Free-thinking
 journals like [Quillete][LINK], [UnhHerd][LINK], [....] surged in popularity
 even before [Substack][LINK] supercharged the phenomenon by popularising
-commercial blogging for the orthodox and heteredox alike.  [Twitter/X][rumble]
+commercial blogging for the orthodox and heteredox alike.  [Twitter/X][LINK]
 has has become a more open place since Elon Musk's quixotic takeover.
-[Rumble][] has become a viable for those who need an alternative to YouTube.
-The list goes on.
+[Rumble][LINK] has become a viable for those who need an alternative to
+YouTube. The list goes on.
 
 The consensus around what narratives to support or suppress is cracking. Yet
 even as voluntary private-sector censorship begins to fail, governments are
-shoring it up laws that go far beyond traditional liberal norms. Proponents of
-this industrial-scale speech squishing would say the old norms aren't fit for
-the challenges of the new age. In a world where posts go viral, it would simply
-be too expensive to actually prosecute the bad guys or otherwise to be bound by
+shoring it up with innovatively illiberal laws. Proponents of this
+industrial-scale speech squishing would say the old norms aren't fit for the
+challenges of the new age. In a world where posts go viral, it would simply be
+too expensive to actually prosecute the bad guys or otherwise to be bound by
 the rule of law.
 
-Yet far for being a response to new circumstances, this approach is at least as
-old as the printing press. Renascence princes as found it much easier to
-regulate printers than authors and much more effective to quietly strangle
-publication than to risk high-profile trials.
+Yet far for being a response to new circumstances, this innovation is a throw
+back to the dawn of the printing press. Renaissance princes as found it much
+easier to regulate printers than authors and much more effective to quietly
+strangle publication than to risk high-profile trials.
 
-This is a warning from history, which turned out to favour the opposite, far
-more liberal, approach. Today the printing presses of the advanced world are
-remarkably free.  Whatever laws might regulate the electronic media, it is the
-sacred right of the literati to put almost any kind of [smut][LINK 50 shades of
-grey or better] or [nononsense][Link to Das Kapital or better] into print. This
-sacred right is the outcome of a Darwinian process where minority of societies
-t (seemingly) immoderate approach included those that were long lived,
-prosperous, powerful or humane enough to set the standards for the civilsed
-world.
+The failure of this approach should be a warning from history Today the
+printing presses of the advanced world are remarkably free.  Whatever laws
+might regulate the electronic media, it is the sacred right of the literati to
+put almost any kind of [smut][LINK 50 shades of grey or better] or
+[nononsense][Link to Das Kapital or better] into print. This sacred right is
+the outcome of a Darwinian process where minority of societies taking this
+seemingly immoderate approach included those that were long lived, prosperous,
+powerful or humane enough to set the standards for the civilsed world.
 
-Will civilisation have to re-learn this lesson the hard way? To prevent this.
-Free societies need push back against the language of online safety and harm
-and reground their traditional liberal approaches. America of is already making
-a started. With it's dynamic entrepreneurs, stroppy federalism and finely
-debated first Amendment jurisprudence, the US is actively fumbling around for
-solutions.  It might find some.
+Will civilisation have to re-learn this lesson the hard way? To prevent this,
+people must push back against the language of online safety and harm and
+reground their traditional liberal approaches. America's dynamic entrepreneurs,
+stroppy governers and hair-splitting constitutional lawyers are making a good
+start.  But the rest of the world should not wait for America to save itself.
+
 
 Liberalism in Australia is also showing belated signs of fighting spirit. The
 government's new misinformation law has not yet passed, and is looking
 increasingly friendless. It has been denounced by Australia's [Human Rights
 Commission][LINK], by the [Victorian Bar Association][LINK] and by [prominent
-scholars][LIINK] and [Publications][LINK]. The government has also
-suddenly turned shy about it's promise publish public submissions about the
-Bill.
+scholars][LIINK] and [Publications][LINK]. The government has also suddenly
+turned shy about it's promise publish public submissions about the Bill [FILL
+IN MORE DETAIL HERE]. Australian society is clearly not tamely accepting the
+narrative of internet safetyism [BRING INTERNET SAFETYISM UP EARLIER AND MAKE
+IT A THEME]. 
 
 
-============
-TRY TO MOVE ALL THIS UP
--------
-Australian society is clearly not tamely accepting the narrative of internet
-safetyism [BRING INTERNET SAFETYISM UP EARLIER AND MAKE IT A THEME]. This is
+
+This is
 all the more remarkable because this draft legislation was [spawned][link]
 under the previous conservative government.  As with Britain's conservative
 government, left-wing activists have been able to use the language of safetyism
