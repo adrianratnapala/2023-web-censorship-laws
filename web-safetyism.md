@@ -21,9 +21,12 @@ harmful.
 History has seen this script before, every regime of censorship has claimed to
 protect the public from harmful discourse. But no regime can have privileged,
 prior knowledge of what is true and good -- it can only know and uphold the
-approved narrative.  This principle is the well-known, time tested basis of
-free speech; it is so well-known and time tested that it has become boring
-and has little hold on the minds of middle-managers.
+approved narrative. No one sould be fooled into thinking that censorship just
+because it is called safety, nor should anyone forget that it is an affront the
+basic workings of any liberal democracy. Yet society is being fooled; these
+prinicples of free speech are so well-known and time tested that it has become
+boring, and have thus lots their hold on the minds young people, their teachers
+and even of of middle-managers.
 
 What does have hold their attention is the censorship industry speaking
 language of web safety. There is a network of organisations in government,
@@ -79,26 +82,8 @@ the platforms on which modern public discourse happen. By turning to censorship
 they threaten the playing field on which democracy plays out.
 
 
-These differences crystalise as different philosophical camps within
-liberalism. One camp is that of James Madison who wrote down the 1st Amendment
-and always understood it (unlike most of his revolutionary colleagues) to
-prohibit laws abridiging free speech.  The other camp might be named after
-John Stuart Mill, who warned against the tyranny of prevailing opinion in
-addition to government.
 
-
-
-Of course that is not how the proponents of censorship present the matter. They
-talk instead of the responsibility for platforms to combat harmful, hateful or
-untrue speech.  But this argument ignores centuries of hard-won liberal
-insights about how public discourse works.  Nobody has privileged, prior
-knowledge of what ideas are hateful or false -- only open discourse can hash
-that out. And as for harm: harmful is a as harmful does - a free society
-punishes deeds, not words.
-
-So we should not be fooled into thinking that censorship is not censorship, not
-should we forget that it is an affront the basic workings of any liberal
-democracy.  Governments should be concerned and even if the United States is
+ Governments should be concerned and even if the United States is
 paralysed by hand-wringing about the speech rights of the platforms themselves,
 other countries live under no such constraints.  No constitutional obstacle
 prevents Australia, the EU, the United Kingdom or a host of other countries
