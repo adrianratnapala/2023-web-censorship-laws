@@ -176,7 +176,6 @@ reground their traditional liberal approaches. America's dynamic entrepreneurs,
 stroppy governers and hair-splitting constitutional lawyers are making a good
 start.  But the rest of the world should not wait for America to save itself.
 
-
 Liberalism in Australia is also showing belated signs of fighting spirit. The
 government's new misinformation law has not yet passed, and is looking
 increasingly friendless. It has been denounced by Australia's [Human Rights
@@ -187,27 +186,19 @@ IN MORE DETAIL HERE]. Australian society is clearly not tamely accepting the
 narrative of internet safetyism [BRING INTERNET SAFETYISM UP EARLIER AND MAKE
 IT A THEME]. 
 
+Although this draft legislation was [spawned][link] under the previous
+conservative government, they have now [have come out against it][link] from
+opposition. Conservatives are belatedly starting to see through the rhetoric of
+web safety and observe the hostitlity of the censorship industry.
 
-
-This is
-all the more remarkable because this draft legislation was [spawned][link]
-under the previous conservative government.  As with Britain's conservative
-government, left-wing activists have been able to use the language of safetyism
-to sneak in regulations that effectively ban conservative ideas. In opposition,
-Australia's conservatives have woken up to this trick, and [have come out
-against the legislation][link].
-
-[THIS IS NICE BUT NOT REALLY RELEVANT, CAN WE MOVE IT]
-But it is not just conservatives who are at risk.  The left has always been
-afraid of a world in in which security forces can whisper in the ears of
-powerful censors. And those fears are being realised, though perhaps not in the
-way that anyone expected. Today [skeptics of drug companies][link],
-[Russia-friendly doves][link] and even [radical feminists][link] are becoming
-associated with the political right.  Left-wingers should fear that far from
-left taking over over the centres power, those centres are taking over the
-left.
-========
-
+The left also needs to wise up.  That side of politics has always afraid of a
+world in in which security forces can whisper in the ears of powerful censors.
+And those fears are being realised, though perhaps not in the way that anyone
+expected. Today [skeptics of drug companies][link], [Russia-friendly
+doves][link] and even [radical feminists][link] are becoming associated with
+the political right.  Left-wingers who imagine they are winning the culture war
+observe that farfrom their ideas taking over the centres power, those centres
+are taking over the left.
 
 But liberals need not just stay on the defensive. If there is a political will
 behind "holding big tech to account", it should be used to entrench free speech
