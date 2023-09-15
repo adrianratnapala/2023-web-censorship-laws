@@ -161,7 +161,7 @@ back to the dawn of the printing press. Renaissance princes as found it much
 easier to regulate printers than authors and much more effective to quietly
 strangle publication than to risk high-profile trials.
 
-The failure of this approach should be a warning from history Today the
+The failure of this approach should be a warning from history. Today the
 printing presses of the advanced world are remarkably free.  Whatever laws
 might regulate the electronic media, it is the sacred right of the literati to
 put almost any kind of [smut][LINK 50 shades of grey or better] or
@@ -200,9 +200,14 @@ the political right.  Left-wingers who imagine they are winning the culture war
 observe that farfrom their ideas taking over the centres power, those centres
 are taking over the left.
 
-But liberals need not just stay on the defensive. If there is a political will
+With luck liberal force on the right and left, can hold back this legislation.
+But there's no need to just stay on the defensive. If there is a political will
 behind "holding big tech to account", it should be used to entrench free speech
-and open discourse.  Nobody likes their social media feed to be full of hate
-and vitriol, nor do parents want their children subjected to bullying and
-indoctrination via their phones.  But that is no reason to allow internet
-censors to become indoctrinating bullies who treat us all like children.
+and open discourse.  Liberals can jiu-jitsu the censorship industry's efforts
+and introduce legislation which guarantees neutrality, transaprency and
+procedural fairness in content moderation.
+
+Nobody likes their social media feed to be full of scams and vitriol, nor do
+parents want their children subjected to bullying and indoctrination via their
+phones.  But we can fight that without handing power to censorious,
+indoctrinating bullies who treat us all like children.
