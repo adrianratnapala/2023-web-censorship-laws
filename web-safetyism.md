@@ -104,20 +104,20 @@ matters are left to the discretion of the platforms. But that discretion will
 be exercised under the shadow of laws which not punish them for permitting
 disapproved speech and not punish them for censoring legal speech.
 
-These bills generally define harmful speech, misinformation in vague and
+These bills generally define harmful speech and misinformation in vague and
 expansive ways. But even if they had in legally clear definitions that align
 with well-established democratic norms, the censorship would go far beyond
 that. These law do not subject individual decisions to censor to any legal
 procedure, instead they are left to up to risk-averse corporations who need to
 stay in the good-books of a regulator.
 
-That's because these laws are a dodge around customary constitutional norms.
-These countries may have America's eagerness to tie government to the First
-Amendment mast. But they can still boast free speech because citizens can't be
-muzzled at the mere say-so of some censor, their speech can only be limited by
-definite laws.  That's why Germany's constitution names **general** laws (along
-with the protection of young persons and the right to personal honour) as the
-limits on free speech.
+These laws are not simply the result of countries without a America's First
+Amendment culture carrying on with their own constitutional norms. They are a
+dodge around those norms. Democarcies have boasted free speech because citizens
+can't be muzzled at the mere say-so of some censor. Speech can only be limited
+by definite laws.  That's why Germany's constitution names **general** laws
+(along with the protection of young persons and the right to personal honour)
+as the limits on free speech.
 
 Today's intermediated internet is far less protective of expression. Posts can
 quietly disappear or be down-ranked without the action ever being acknowledged,
