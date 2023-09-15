@@ -66,7 +66,7 @@ have to exercise is right elsewhere; and even such statutes will have to
 respect with Alice's own rights of free speech and association.
 
 All this becomes a very live issue when we encounter censorship by digital
-platforms. Services such as a social network and search engines are not
+platforms. Services such as a social networks and search engines are not
 telephone lines; when we engage these services we want them to filter out spam,
 or rank order search results.  We neither desire nor expect a passively neutral
 conduit of information. Yet we can desire  an _active neutrality_ that respects
@@ -78,23 +78,18 @@ Instead, thanks to web safetyism, the platforms began to filter based on what
 user _ought_ to want.  They chose to respect the censorship industry more than
 their users. This would be one thing these platforms were merely a handful of
 publishers among many. But no, they are called platforms for a reason; they are
-the platforms on which modern public discourse happen. By turning to censorship
-they threaten the playing field on which democracy plays out.
+the platforms on which modern public discourse happen.
 
+Governments should be concerned about this fundamental threat to democracy; and
+in principle this situation should have been a one-up for those constitutions
+which give the governments to tackle it without America's Madisonian
+hand-wringing about the speech rights of the platforms themselves.
 
-
- Governments should be concerned and even if the United States is
-paralysed by hand-wringing about the speech rights of the platforms themselves,
-other countries live under no such constraints.  No constitutional obstacle
-prevents Australia, the EU, the United Kingdom or a host of other countries
-from restricting viewpoint based censorship, or requiring procedural justice
-for users who are blocked or shadow-banned.  These countries have a free hand
-steal a march on old Uncle Sam.
-
-Instead these countries have used this free hand to do just the opposite.
-Instead of requiring companies to respect the user by providing them a
-platforms to discuss their viewpoints freely, these countries are instead
-legislating to demand that these companies uphold the elite consensus:
+Instead governments of democracies around the world have used their free hand to
+do just the opposite. Instead of requiring companies to respect the user enough
+to providing them a platforms to discuss their viewpoints freely, these
+countries are instead legislating to demand that these companies comply with
+the censorship industry.
 
 **The EU's the Digital Services Act** ....
 
@@ -102,11 +97,11 @@ legislating to demand that these companies uphold the elite consensus:
 
 **Australia's proposed ACMA powers Bill** ...
 
-Despite their differences, what these statues have in common is that they push
+Whatever their differences, what these statues have in common is that they push
 the work of decisions onto the platforms. There's no process to review these
 decisions to ensure the blocked speech actually violated some law, these
 matters are left to the discretion of the platforms. But that discretion will
-be exercised under the shadow of laws which not punish for permitting
+be exercised under the shadow of laws which not punish them for permitting
 disapproved speech and not punish them for censoring legal speech.
 
 These bills generally define harmful speech, misinformation in vague and
@@ -117,12 +112,12 @@ procedure, instead they are left to up to risk-averse corporations who need to
 stay in the good-books of a regulator.
 
 That's because these laws are a dodge around customary constitutional norms.
-These countries may have America's eagerness to tie government to the mast of
-the 1st Amendment. But they can still boast free speech because citizens can't
-be muzzled at the mere say-so of some censor, their speech can only be limited
-by definite laws.  That's why Germany's constitution names **general** laws
-(along with the protection of young persons and the right to personal honour)
-as the limits on free speech.
+These countries may have America's eagerness to tie government to the First
+Amendment mast. But they can still boast free speech because citizens can't be
+muzzled at the mere say-so of some censor, their speech can only be limited by
+definite laws.  That's why Germany's constitution names **general** laws (along
+with the protection of young persons and the right to personal honour) as the
+limits on free speech.
 
 Today's intermediated internet is far less protective of expression. Posts can
 quietly disappear or be down-ranked without the action ever being acknowledged,
