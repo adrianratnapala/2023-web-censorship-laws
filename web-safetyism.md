@@ -91,15 +91,17 @@ to providing them a platforms to discuss their viewpoints freely, these
 countries are instead legislating to demand that these companies comply with
 the censorship industry.
 
-**The EU's the Digital Services Act** ....
+**The EU's the Digital Services Act** is already in force and is a successor
+to various laws like Germany's infamous NetzDG. These laws impose serious
+fines for platforms which do not quickly remove illegal content. 
 
-**Britain's Online Safety Bill** Is, at the time of writing, passing through
+**Britain's Online Safety Bill** is, at the time of writing, passing through
 Parliament. It requires "user-to-user services" to block illegal content
 (earlier drafts also inlcuded "legal but harmful" content). It also gives
 authorities the power to block specific sites and to issue and change codes of
 practice which will be used to interpret the law.
 
-**Australia's proposed ACMA powers Bill** Has been proposed by Australia's
+**Australia's proposed ACMA powers Bill** has been proposed by Australia's
 communications minister.  It empowers authorities to bind digital platforms to
 mandatory Misinformation Codes and Standards that require them to block content
 defined as misinformation. The definition of misinformation is rather vague,
@@ -107,14 +109,15 @@ but the Bill makes a clear exception for the speech of government, officially
 recognized media, and educational instutions (inlcuding even those owned by
 foreign governments).
 
-
-
 Whatever their differences, what these statues have in common is that they push
-the work of decisions onto the platforms. There's no process to review these
-decisions to ensure the blocked speech actually violated some law, these
-matters are left to the discretion of the platforms. But that discretion will
-be exercised under the shadow of laws which not punish them for permitting
+the work of decisions onto the platforms. Indivudal decisions to block content
+are left ot the discretion of the platforms but that discretion will be
+exercised under the shadow of laws which not punish them for permitting
 disapproved speech and not punish them for censoring legal speech.
+In most cases, there's no process to process to review these decisions to
+ensure the blocked speech actually violated some law.  (To it's credit,
+the EU has mandated such a [process in the DSA](https://www.dlapiper.com/en-jp/insights/publications/2023/03/dsa--a-new-era-for-online-dispute-resolution--with-an-irish-twist),
+
 
 These bills generally define harmful speech and misinformation in vague and
 expansive ways. But even if they had in legally clear definitions that align
