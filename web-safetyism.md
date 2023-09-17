@@ -5,10 +5,10 @@ most paranoid rantings of gun-toting, liberty fanatics from James Madison
 onwards.  Governments are starting to make censorship mandatory, and America's
 constitutional order is starting to look like the world's only line of defense.
 
-So far in this millenium, public discourse onto digital platforms owned and
-controlled by a handful of private companies. There might have been a time,
-back when Twitter's then CEO Jack Dorsey was lauded for calling his company
-"the free speech wing of the free speech party", that the large digital
+So far in this millenium, public discourse has moved onto digital platforms
+owned and controlled by a handful of private companies. There might have been a
+time, back when Twitter's then CEO Jack Dorsey was lauded for calling his
+company "the free speech wing of the free speech party", that the large digital
 platforms instinctively respected their users and saw their mission as
 connecting those users to their desired sources of information.
 
@@ -93,9 +93,21 @@ the censorship industry.
 
 **The EU's the Digital Services Act** ....
 
-**Britain's Online Safety Bill** .... [ACT?]
+**Britain's Online Safety Bill** Is, at the time of writing, passing through
+Parliament. It requires "user-to-user services" to block illegal content
+(earlier drafts also inlcuded "legal but harmful" content). It also gives
+authorities the power to block specific sites and to issue and change codes of
+practice which will be used to interpret the law.
 
-**Australia's proposed ACMA powers Bill** ...
+**Australia's proposed ACMA powers Bill** Has been proposed by Australia's
+communications minister.  It empowers authorities to bind digital platforms to
+mandatory Misinformation Codes and Standards that require them to block content
+defined as misinformation. The definition of misinformation is rather vague,
+but the Bill makes a clear exception for the speech of government, officially
+recognized media, and educational instutions (inlcuding even those owned by
+foreign governments).
+
+
 
 Whatever their differences, what these statues have in common is that they push
 the work of decisions onto the platforms. There's no process to review these
