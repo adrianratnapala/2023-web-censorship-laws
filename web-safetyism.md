@@ -91,36 +91,31 @@ to providing them a platforms to discuss their viewpoints freely, these
 countries are instead legislating to demand that these companies comply with
 the censorship industry.
 
-**The EU's the Digital Services Act** is already in force and is a successor
-to various laws like Germany's infamous NetzDG. These laws impose serious
-fines for platforms which do not quickly remove illegal content. 
+The laws include Britain's Online Safety Bill and the EU's the Digital Services
+Act, successor to various laws like Germany's infamous NetzDG. Among other
+things, these laws require platforms to quickly block illegal content. The
+Australian government is going to the next frontier of suppressing *legal*
+content. 
 
-**Britain's Online Safety Bill** is, at the time of writing, passing through
-Parliament. It requires "user-to-user services" to block illegal content
-(earlier drafts also inlcuded "legal but harmful" content). It also gives
-authorities the power to block specific sites and to issue and change codes of
-practice which will be used to interpret the law.
+A proposed new bill binds digital platforms to mandatory Misinformation Codes
+and Standards that require them to block content defined as misinformation. The
+definition of misinformation is rather vague, but the Bill makes a clear
+exception for the speech of government, officially recognized media, and
+educational instutions (inlcuding even those owned by foreign governments).
+Like all of thse laws, Australi'as it pays lip service to balancing its
+restrictions with free speech, but does so toothlessly.  Authorities are asked
+politely to consider free speech in their deliberations but no actionable
+limits are set on their censorship, nor are there penalties for silencing
+people.
 
-**Australia's proposed ACMA powers Bill** has been proposed by Australia's
-communications minister.  It empowers authorities to bind digital platforms to
-mandatory Misinformation Codes and Standards that require them to block content
-defined as misinformation. The definition of misinformation is rather vague,
-but the Bill makes a clear exception for the speech of government, officially
-recognized media, and educational instutions (inlcuding even those owned by
-foreign governments).
-
-Whatever their differences, what these statues have in common is that they push
-the work of decisions onto the platforms. Indivudal decisions to block content
-are left ot the discretion of the platforms but that discretion will be
+This bill carries on a common theme in such legilsation: it pushes the
+decisions onto the platforms who alerady posess the discretion to block content
+without having to show that it violates any law. That discretion will be
 exercised under the shadow of laws which not punish them for permitting
 disapproved speech and not punish them for censoring legal speech.
-In most cases, there's no process to process to review these decisions to
-ensure the blocked speech actually violated some law.  (To it's credit,
-the EU has mandated such a [process in the DSA](https://www.dlapiper.com/en-jp/insights/publications/2023/03/dsa--a-new-era-for-online-dispute-resolution--with-an-irish-twist),
 
-
-These bills generally define harmful speech and misinformation in vague and
-expansive ways. But even if they had in legally clear definitions that align
+The Bill defines harmful speech and misinformation in vague and expansive ways.
+But even when laws like this are on their foace uisng clear definitions aligned
 with well-established democratic norms, the censorship would go far beyond
 that. These law do not subject individual decisions to censor to any legal
 procedure, instead they are left to up to risk-averse corporations who need to
@@ -222,7 +217,17 @@ and open discourse.  Liberals can jiu-jitsu the censorship industry's efforts
 and introduce legislation which guarantees neutrality, transaprency and
 procedural fairness in content moderation.
 
+This is no quixiotic demand, to its credit the EU's Digital Services Act
+requires an accessible [process for dispute resultions](
+https://www.dlapiper.com/en-jp/insights/publications/2023/03/dsa--a-new-era-for-online-dispute-resolution--with-an-irish-twist).
+If such requirements are backed up by substantive rights to free expression and
+real penalties for violating them,  they will constitute a genuine way forward
+to a digital world that preserves and re-invigorates basic rights on which
+liberal democracies depend.
+
 Nobody likes their social media feed to be full of scams and vitriol, nor do
 parents want their children subjected to bullying and indoctrination via their
 phones.  But we can fight that without handing power to censorious,
 indoctrinating bullies who treat us all like children.
+
+
