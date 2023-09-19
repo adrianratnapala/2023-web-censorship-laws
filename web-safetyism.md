@@ -1,3 +1,14 @@
+Like many governing authorities around the world, [Australia's Minister for
+Communications](https://minister.infrastructure.gov.au/rowland) is concerned to
+hold digital platforms to account for supposedly inadequies how they moderate
+user generated content. Perhaps to its credit, the department is taking it's
+own condent-moderation very seriously. Citing the difficulty of reviewing the
+public submissions about the bill for privacy, legal compliance, and offensive
+content, the department has been slow releasing them. The first 150 submissions
+were released a almost month late, and it [has been reported][LINK] that there
+are only about 22,850 submissions still to go.
+
+
 This age of internet censorship should have been the chance for the free world
 to show America the inferiority of it's ways.  But, thanks to the rise of web
 safetyism, governments around the world instead determined to vindicate the
