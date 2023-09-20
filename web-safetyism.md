@@ -1,3 +1,10 @@
+This age of internet censorship should have been the chance for the free world
+to show America the inferiority of it's ways.  But, thanks to the rise of web
+safetyism, governments around the world instead determined to vindicate the
+most paranoid rantings of gun-toting, liberty fanatics from James Madison
+onwards.  Governments are starting to make censorship mandatory, and America's
+constitutional order is starting to look like the world's only line of defense.
+
 Like many governing authorities around the world, [Australia's Minister for
 Communications](https://minister.infrastructure.gov.au/rowland) is concerned to
 hold digital platforms to account for the supposedly inadequate way they
@@ -11,16 +18,11 @@ content. The first 150 submissions were released a almost month late, and it
 
 As an author of one of the [unreleased submissions][LINK], I wonder what the
 purpose is. Protecting my privacy is my own affair, and anyone who finds the
-document offensive can take it up with me. And if the department feels some
-legal risk from having my scribblings on it's website -- that's a hint that we
-shouldn't have such laws.
-
-This age of internet censorship should have been the chance for the free world
-to show America the inferiority of it's ways.  But, thanks to the rise of web
-safetyism, governments around the world instead determined to vindicate the
-most paranoid rantings of gun-toting, liberty fanatics from James Madison
-onwards.  Governments are starting to make censorship mandatory, and America's
-constitutional order is starting to look like the world's only line of defense.
+document offensive can take it up with me. If the department feels some legal
+risk from having user-generated conent on it's website -- that's a hint that
+the law change to reducin rather than increasing such risks.  The overall
+effect of this safetyist urge to moderate content has been to mute the voice of
+the public - and not just in the context of this one administrative cockup.
 
 So far in this millenium, public discourse has moved onto digital platforms
 owned and controlled by a handful of private companies. There might have been a
@@ -52,7 +54,7 @@ dangers of harmful information and offering the helpful service of telling the
 rest of the world what information is harmful. [LINK Schellenberger, or Tiabbi,
 look into the RMIT Fact Lab debacle].
 
-The censorship industry has a self-justifying ideology about the importance
+The censorship industry has a self-justifying ideology about the importance of
 connecting the public to trusted source of information and protecting it from
 harmful ideas. This ideology has been known and refuted since the
 Englightenment, but the hacks of the industry aren't obliged to pay attention.
