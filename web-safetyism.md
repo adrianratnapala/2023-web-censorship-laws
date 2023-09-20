@@ -1,13 +1,19 @@
 Like many governing authorities around the world, [Australia's Minister for
 Communications](https://minister.infrastructure.gov.au/rowland) is concerned to
-hold digital platforms to account for supposedly inadequies how they moderate
-user generated content. Perhaps to its credit, the department is taking it's
-own condent-moderation very seriously. Citing the difficulty of reviewing the
-public submissions about the bill for privacy, legal compliance, and offensive
-content, the department has been slow releasing them. The first 150 submissions
-were released a almost month late, and it [has been reported][LINK] that there
-are only about 22,850 submissions still to go.
+hold digital platforms to account for the supposedly inadequate way they
+moderate user generated content. Ironically, but unsprisingly, her department
+is finding it hard to comply by the same standards it expects of industry.
+Having called for public submissions about a proposed [Misinformation and
+Disinformation Bill][LINK], the department has been slow releasing them, citing
+the need to review thesubmissions  for privacy, legal compliance, and offensive
+content. The first 150 submissions were released a almost month late, and it
+[has been reported][LINK] that there are about 22,850 submissions still to go.
 
+As an author of one of the [unreleased submissions][LINK], I wonder what the
+purpose is. Protecting my privacy is my own affair, and anyone who finds the
+document offensive can take it up with me. And if the department feels some
+legal risk from having my scribblings on it's website -- that's a hint that we
+shouldn't have such laws.
 
 This age of internet censorship should have been the chance for the free world
 to show America the inferiority of it's ways.  But, thanks to the rise of web
