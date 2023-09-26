@@ -1,58 +1,70 @@
-This age of internet censorship should have been the chance for the free world
-to show America the inferiority of it's ways.  But, thanks to the rise of web
-safetyism, governments around the world instead determined to vindicate the
-most paranoid rantings of gun-toting, liberty fanatics from James Madison
-onwards.  Governments are starting to make censorship mandatory, and America's
-constitutional order is starting to look like the world's only line of defense.
+It has long been noted that in this internet age, where public discourse has
+moved onto digital platforms owned and controlled by a handful of private
+companies, censorship is by private companies more vigorous and constricting
+than the government version. This challenge to the state-limiting ethos behind
+America's Constitution was a chance for governments across the free world to
+show Uncle Sam the inferiority of his ways. Instead, they are choosing to
+vindicate the most paranoid rantings of gun-toting, liberty fanatics.
+Increasingly capatured by rising [censorship industry][cic] and its ideology of
+*web sayfetyism*, governments are starting to make censorship mandatory. And
+perhaps America's fusty old constitutional order will prove to be the world's
+only line of defense.
 
-Like many governing authorities around the world, [Australia's Minister for
-Communications](https://minister.infrastructure.gov.au/rowland) is concerned to
-hold digital platforms to account for the supposedly inadequate way they
-moderate user generated content. Ironically, but unsprisingly, her department
-is finding it hard to comply by the same standards it expects of industry.
-Having called for public submissions about a proposed [Misinformation and
-Disinformation Bill][LINK], the department has been slow releasing them, citing
-the need to review thesubmissions  for privacy, legal compliance, and offensive
-content. The first 150 submissions were released a almost month late, and it
-[has been reported][LINK] that there are about 22,850 submissions still to go.
+[cic]: https://brownstone.org/articles/the-censorship-industrial-complex/
 
-As an author of one of the [unreleased submissions][LINK], I wonder what the
-purpose is. Protecting my privacy is my own affair, and anyone who finds the
-document offensive can take it up with me. If the department feels some legal
-risk from having user-generated conent on it's website -- that's a hint that
-the law change to reducin rather than increasing such risks.  The overall
-effect of this safetyist urge to moderate content has been to mute the voice of
-the public - and not just in the context of this one administrative cockup.
+<!-- Rowland is moderating the vox populi over ACMA. -->
 
-So far in this millenium, public discourse has moved onto digital platforms
-owned and controlled by a handful of private companies. There might have been a
-time, back when Twitter's then CEO Jack Dorsey was lauded for calling his
-company "the free speech wing of the free speech party", that the large digital
-platforms instinctively respected their users and saw their mission as
-connecting those users to their desired sources of information.
+A good eample of the trend is [Australia's Minister for
+Communications](https://minister.infrastructure.gov.au/rowland) and her concern
+to hold digital platforms to account for supposedly inadequate moderation of
+user generated content. Ironically, but unsprisingly, her department is finding
+it hard to meet the standards it expects of industry. Having called for public
+submissions about a proposed [Misinformation and Disinformation
+Bill][acma-call], the department has been slow releasing them, citing the need
+to review the submissions  for privacy, legal compliance, and offensive
+content. The first 150 submissions were released a almost month late. It [has
+been reported][23k] that there are about 23,000 in total (the department is has
+not provided it's own numbers).
 
-But over time, these platforms drifted towards an ideology we might call "web
-safetyism" which holds that the duty of these companies is not to respect their
-users but to protect them, to serve them but not when they request information
-understood to be hate speech, misinformation, disinformation or otherwise
-harmful.
+[acma-call]: https://www.infrastructure.gov.au/have-your-say/new-acma-powers-combat-misinformation-and-disinformation
+[23k]: https://www.liberal.org.au/latest-news/2023/09/15/23000-submissions-comments-made-labors-misinformation-bill-government-still
+
+As an author of one of the unreleased submissions, I wonder what the purpose
+is. Any private information I might reveal in my own document is my own affair,
+and anyone who finds the document offensive can take it up with me. If the
+department feels some legal risk from having user-generated conent on its
+website -- that's a hint that the law reform should aim to reduce rather than
+increase risks. The overall effect of the safetyist urge to moderate content
+has been to mute the voice of the public - a phenomenon that goes well beyound
+this one administrative cockup.
+
+<!-- The censorship industry is capturing platforms and governments alike -->
+
+Once, back when Twitter's then CEO Jack Dorsey was lauded for calling his
+company "the free speech wing of the free speech party", the large digital
+platforms perhaps instinctively respected their users and saw their mission as
+connecting those users to their desired sources of information. But over time,
+the platforms were captured by a safetyist ideology which holds that the duty
+of these companies is not to respect their users but to protect them, to serve
+them but not when they request information understood to be hate speech,
+misinformation, disinformation or otherwise harmful.
 
 History has seen this script before, every regime of censorship has claimed to
 protect the public from harmful discourse. But no regime can have privileged,
-prior knowledge of what is true and good -- it can only know and uphold the
-approved narrative. No one sould be fooled into thinking that censorship just
-because it is called safety, nor should anyone forget that it is an affront the
-basic workings of any liberal democracy. Yet society is being fooled; these
-prinicples of free speech are so well-known and time tested that it has become
-boring, and have thus lots their hold on the minds young people, their teachers
-and even of of middle-managers.
+prior knowledge of what is true and good -- it can only know and uphold
+approved narratives. No one sould be fooled into thinking that censorship is
+not censorship just because it is called safety. Nor should anyone forget that
+it is an affront the basic workings of any liberal democracy. Yet society *is*
+being fooled; these prinicples of free speech are so well-known and time tested
+that it has become boring and thus lost their hold on the minds of young
+people, their teachers and even of middle-managers.
 
-What does have hold their attention is the censorship industry speaking
-language of web safety. There is a network of organisations in government,
-acedemia and the nonprofit sector which earn their keep by warning of the
-dangers of harmful information and offering the helpful service of telling the
-rest of the world what information is harmful. [LINK Schellenberger, or Tiabbi,
-look into the RMIT Fact Lab debacle].
+What do hold their attention are the talking points of an powerful censorship
+industry. There is a network of organisations in government, acedemic and
+elsewhere which earn their keep by warning of the dangers of harmful
+information and offering the helpful service of telling the rest of the world
+what information is harmful. [LINK Schellenberger, or Tiabbi, look into the
+RMIT Fact Lab debacle].
 
 The censorship industry has a self-justifying ideology about the importance of
 connecting the public to trusted source of information and protecting it from
