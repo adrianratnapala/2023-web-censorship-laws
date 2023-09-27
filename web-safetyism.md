@@ -10,7 +10,8 @@ Increasingly capatured by rising [censorship industry][cic] and its ideology of
 perhaps America's fusty old constitutional order will prove to be the world's
 only line of defense.
 
-[cic]: https://brownstone.org/articles/the-censorship-industrial-complex/
+[cic-brownstone]: https://brownstone.org/articles/the-censorship-industrial-complex/
+[cic]: https://judiciary.house.gov/sites/evo-subsites/republicans-judiciary.house.gov/files/evo-media-document/shellenberger-testimony.pdf
 
 <!-- Rowland is moderating the vox populi over ACMA. -->
 
@@ -40,15 +41,58 @@ this one administrative cockup.
 
 <!-- The censorship industry is capturing platforms and governments alike -->
 
-Once, back when Twitter's then CEO Jack Dorsey was lauded for calling his
-company "the free speech wing of the free speech party", the large digital
-platforms perhaps instinctively respected their users and saw their mission as
-connecting those users to their desired sources of information. But over time,
-the platforms were captured by a safetyist ideology which holds that the duty
-of these companies is not to respect their users but to protect them, to serve
-them but not when they request information understood to be hate speech,
-misinformation, disinformation or otherwise harmful.
+Once, back when Twitter's then CEO was lauded for calling his company "the free
+speech wing of the free speech party", the large digital platforms perhaps
+instinctively respected their users and saw their mission as connecting those
+users to their desired sources of information. But over time, the platforms
+were captured by a safetyist ideology which holds that the duty of these
+companies is not to respect their users but to protect them, to serve them but
+not when they request information understood to be hate speech, misinformation,
+disinformation or otherwise harmful.
 
+This capture is no accident, it is the work of a is a network of individuals
+and organizations that earn their keep by warning of the dangers of harmful
+information and offering the helpful service of telling the rest of the world
+what information is harmful. A recent example of how this economy works is the
+[RMIT][LINK] FactLab, a research outfit running out of a university but also
+funded by by Meta (Facebook) to fact-check social media posts. It was
+[suspended by Meta][gurdn-rmit] after a an investigation by Sky News found
+procedural irregulatities and a record of [fact-checks favouring one
+side][sky-rmit] in Australia's upcomming Indigenous Voice referandum.
+
+[gurdn-rmit]: https://www.theguardian.com/australia-news/2023/aug/29/facebook-meta-suspends-rmit-factlab-factchecker-indigenous-voice-to-parliament-referendum
+[sky-rmit]: https://www.skynews.com.au/business/media/the-fact-check-files-inside-the-secretive-and-lucrative-fact-checking-industry-behind-a-foreignfunded-bid-to-censor-voice-debate/news-story/31915e1eb03b029b86a2f03aac19338b
+
+The FactLab's head Russel Skelton is an open and  well-known left-wing
+partisan. This is right, everyone has the right to hold and make known their
+political opinions. But few have the right to also throttle and suppress the
+voices of others. Yet the ideology of web-safetyism assumes that someone such
+as he must be entrusted to do just that.
+
+[rmit-letter]: https://www.skynews.com.au/wp-content/uploads/2023/08/RMIT-letter-to-Ashurst-re-SkyNews-18-July-2023_Redacted.pdf
+
+These have been exposed partly due to legal discovery in cases such as
+[Missouri vs. Biden][m-vs-b], and partly in the wake of the meticulous
+documentation of the [Twistter Files][Link] documented by journalists such as
+Michael Schellenberger, Matt Tiabbi and Barri Weiss [LINKS!].  Higlights
+include include:
+* A zoo of disinformation research organisations that receive funding and
+  personell from the US intelligence services. [LINK]
+* A coterie of officials moving between those services and senior roles at big
+  tech companies. [LINK]
+* A long list of disinformation campaigns conducted by these groups. 
+  
+[m-vs-b]: https://www.courtlistener.com/docket/67563473/238/1/state-of-missouri-v-biden/
+
+
+
+
+[LINK
+Schellenberger, or Tiabbi, look into the RMIT Fact Lab debacle].
+
+
+
+<-- SNIP
 History has seen this script before, every regime of censorship has claimed to
 protect the public from harmful discourse. But no regime can have privileged,
 prior knowledge of what is true and good -- it can only know and uphold
@@ -60,11 +104,8 @@ that it has become boring and thus lost their hold on the minds of young
 people, their teachers and even of middle-managers.
 
 What do hold their attention are the talking points of an powerful censorship
-industry. There is a network of organisations in government, acedemic and
-elsewhere which earn their keep by warning of the dangers of harmful
-information and offering the helpful service of telling the rest of the world
-what information is harmful. [LINK Schellenberger, or Tiabbi, look into the
-RMIT Fact Lab debacle].
+industry.
+-->
 
 The censorship industry has a self-justifying ideology about the importance of
 connecting the public to trusted source of information and protecting it from
