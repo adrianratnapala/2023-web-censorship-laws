@@ -84,7 +84,7 @@ as he must be entrusted to do just that.
 
 The RMIT debacle is of course just one vignette in a larger international story
 that is emerging from legal discovery in cases such as [Missouri vs.
-Biden][m-vs-b] and revelations from from the [Twitter Files][Link] by Michael
+Biden][m-vs-b] and revelations from from the [Twitter Files][LINK] by Michael
 Schellenberger, Matt Tiabbi, Barri Weiss and other journalists.
 Schellenberger's subsequent [testimony to the US Congress][schell-cong]
 documents a zoo of disinformation research organisations that receive funding
@@ -94,20 +94,24 @@ list A long list of disinformation campaigns conducted by these groups.
 
 [schell-cong]: https://judiciary.house.gov/sites/evo-subsites/republicans-judiciary.house.gov/files/evo-media-document/shellenberger-testimony.pdf
   
-[m-vs-b]:
-https://www.courtlistener.com/docket/67563473/238/1/state-of-missouri-v-biden/
+[m-vs-b]: LINK
+
 
 
 <!-- Constitutions matter, but do they protect speech on private platforms?  -->
 
+Like any activist industry, the censorship industry attracts funding for
+tackling some ideologically identified problem, and then invest that generating
+research-propaganda demonstrating the importance of that issue.  The result is
+a whole institional ecosystem co-evolving with some self-justifying ideology.
+In this case that ideology is about connecting the public to trusted source of
+information and protecting it from harmful ideas. 
 
-The censorship industry has a self-justifying ideology about the importance of
-connecting the public to trusted source of information and protecting it from
-harmful ideas. The hacks of the industry aren't obliged to pay attention to the
-refutations of this ideology that had been known since the Englightenment. They
-are, however, obliged to follow the law and every country has a constitutional
-order underpinning it's own laws.  In the United States, a centrepiece of that
-order is the first Amendment, which says:
+The hacks of the industry aren't obliged to pay attention to the refutations of
+this ideology that had been known since the Englightenment. They are, however,
+obliged to follow the law and every country has a constitutional order
+underpinning it's own laws. In the United States, a centrepiece of that order
+is the first Amendment, which says:
 
 > Congress shall make no law respecting an establishment of religion, or
 > prohibiting the free exercise thereof; or abridging the freedom of speech, or
@@ -129,7 +133,8 @@ are good reasons for this: hostess Alice is perfectly entitled to throw
 Holocaust denying Bob out of her dinner party, even though Holocaust denial is
 protected by the first Amendment.  Bob will just have to exercise is right
 elsewhere, at least until some positive statue says otherwise; and even such
-statutes will have to respec Alice's own rights of free speech and association.
+statutes will have to respect Alice's own rights of free speech and
+association.
 
 All this theory becomes a very live issue when public disocurse moves onto
 privately own digital platforms. Services such as a social networks and search
@@ -146,12 +151,18 @@ industry more than their users. This would be one thing these platforms were
 merely a handful of publishers among many. But no, they are called platforms
 for a reason; they are the platforms on which modern public discourse happen.
 
+<!-- Governments are mandating censorship, captured by the CI -->
+
 Governments should be concerned about this fundamental threat to democracy; and
 in principle this situation should have been a one-up for those constitutions
 which give the governments to tackle it without America's Madisonian
 hand-wringing about the speech rights of the platforms themselves. Instead
 governments of democracies around the world have used their free hand to do
-just the opposite. Instead of requiring companies to respect the user enough to
+just the opposite.  Web-safety and the newly mediated public discourse has
+re-invigorated the ancient and natural interests that governments have in
+censorship.
+
+Instead of requiring companies to respect the user enough to
 providing them a platforms to discuss their viewpoints freely, these countries
 are instead legislating to demand that these companies comply with the
 censorship industry.
@@ -162,16 +173,16 @@ things, these laws require platforms to quickly block illegal content. The
 Australian government is going to the next frontier of suppressing *legal*
 content. 
 
-A proposed new bill binds digital platforms to mandatory Misinformation Codes
-and Standards that require them to block content defined as misinformation. The
-definition of misinformation is rather vague, but the Bill makes a clear
-exception for the speech of government, officially recognized media, and
-educational instutions (inlcuding even those owned by foreign governments).
-Like all of thse laws, Australi'as it pays lip service to balancing its
-restrictions with free speech, but does so toothlessly.  Authorities are asked
-politely to consider free speech in their deliberations but no actionable
-limits are set on their censorship, nor are there penalties for silencing
-people.
+A [proposed new bill][LINK] binds digital platforms to mandatory Misinformation
+Codes and Standards that require them to block content defined as
+misinformation. The definition of misinformation is rather vague, but the Bill
+makes a clear exception for the speech of government, officially recognized
+media, and educational instutions (inlcuding even those owned by foreign
+governments). Like all of thse laws, Australi'as it pays lip service to
+balancing its restrictions with free speech, but does so toothlessly.
+Authorities are asked politely to consider free speech in their deliberations
+but no actionable limits are set on their censorship, nor are there penalties
+for silencing people.
 
 This bill carries on a common theme in such legilsation: it pushes the
 decisions onto the platforms who alerady posess the discretion to block content
@@ -186,7 +197,7 @@ that. These law do not subject individual decisions to censor to any legal
 procedure, instead they are left to up to risk-averse corporations who need to
 stay in the good-books of a regulator.
 
-These laws are not simply an expression of these countries own constitutional
+These laws are not simply an expression of these countries' own constitutional
 norms. They are a dodge around those norms. Democarcies boast speech because
 citizens can't be muzzled at the mere say-so of some censor. Even in
 democracies with nothing like America's First Amendment, speech can only be
@@ -200,41 +211,41 @@ acknowledged, let alone justified relative to some legal standard. Governments
 and the censorship industry have not been shy about taking advantage of the
 opportunity to skirt their own norms. 
 
-The American government is no exception, as is best documented in the [Twitter
-Files][TRACK DOWN LINKS & REPORTERS NAMES]. This reporting from [NAME SOME
-TWITTER FILE REPORTERS] which shows the elaborately organised channels through
-which American security agencies gave instructions to Twitter and other
-companies about what information to suppress. The censorship ranged from
-stamping down on Covid [FIND LINK] heterodoxy to protecting prominent
-politicians from scandalous revelations [FIND HB LAPTOP LINK]. [REREAD SOME
-TWITTER-FILES REPORTAGE AND REWRITE THIS].
+This is one more example of an industry capturing the permanent apparat of
+otherwise democratic states. Civil servants are a natural constituency for
+technocratic-paternalist ideas like web safetyism -- especially when it
+justifies muting complaints about their own performance. As uncovered by the
+Twitter File and related controversies, the American government is no
+exception. The security forces and other agencies there are still keen to
+pressure the platforms, even if they must do so covertly enough to skirt the
+first Amendment.
 
-American courts are now being asked to rule on how deal with this apparent
-violation of the first Amendment [LINK TO CASES]. Some American states have
-also started to legislate against censorship by digital platforms [TEXAS HB20,
-FLORIDA BILL] -- and these laws are themselves been tested in court against the
-First Amendment.
+<!-- There is pushback, through courts, law and the market -->
 
-But the most potent response of all has been from the market.  Free-thinking
-journals like [Quillete][LINK], [UnhHerd][LINK], [....] surged in popularity
-even before [Substack][LINK] supercharged the phenomenon by popularising
-commercial blogging for the orthodox and heteredox alike.  [Twitter/X][LINK]
-has has become a more open place since Elon Musk's quixotic takeover.
-[Rumble][LINK] has become a viable for those who need an alternative to
-YouTube. The list goes on.
+Resistance ot this covert appraoch is just beginning to find it's feet. Court
+challenges like [Missouri v. Biden][LINK] have given American courts the chance
+to frown on agencies censoring by proxy. Some American states have also started
+to legislate against censorship by digital platforms [LINK TEXAS HB20, FLORIDA
+BILL]. But the most potent response of all has been from the market.
+Free-thinking journals like [Quillete][LINK], [UnhHerd][LINK], [....] surged in
+popularity even before [Substack][LINK] supercharged the phenomenon by
+popularising commercial blogging for the orthodox and heteredox alike.
+[Twitter/X][LINK] has has become a more open place since Elon Musk's quixotic
+takeover. [Rumble][LINK] has become a viable choice for those who need an
+alternative to YouTube. The list goes on.
 
 The consensus around what narratives to support or suppress is cracking. Yet
-even as voluntary private-sector censorship begins to fail, governments are
+even as voluntary private-sector censorship begins to falter, governments are
 shoring it up with innovatively illiberal laws. Proponents of this
 industrial-scale speech squishing would say the old norms aren't fit for the
 challenges of the new age. In a world where posts go viral, it would simply be
 too expensive to actually prosecute the bad guys or otherwise to be bound by
 the rule of law.
 
-Yet far for being a response to new circumstances, this innovation is a throw
-back to the dawn of the printing press. Renaissance princes as found it much
-easier to regulate printers than authors and much more effective to quietly
-strangle publication than to risk high-profile trials.
+Yet far for being a response to new circumstances, this innovation is a
+throwback to the dawn of the printing press. Renaissance princes as found it
+much easier to regulate printers than authors and much more effective to
+quietly strangle publication than to risk high-profile trials.
 
 The failure of this approach should be a warning from history. Today the
 printing presses of the advanced world are remarkably free.  Whatever laws
@@ -255,38 +266,43 @@ Liberalism in Australia is also showing belated signs of fighting spirit. The
 government's new misinformation law has not yet passed, and is looking
 increasingly friendless. It has been denounced by Australia's [Human Rights
 Commission][LINK], by the [Victorian Bar Association][LINK] and by [prominent
-scholars][LIINK] and [Publications][LINK]. The government has also suddenly
-turned shy about it's promise publish public submissions about the Bill [FILL
-IN MORE DETAIL HERE]. Australian society is clearly not tamely accepting the
-narrative of internet safetyism [BRING INTERNET SAFETYISM UP EARLIER AND MAKE
-IT A THEME]. 
+scholars][LIINK] and [Publications][LINK].  Prime Minister Anthony
+Albanese even seems to by [trying to deny][LINK] it's existence.
 
-Although this draft legislation was [spawned][link] under the previous
-conservative government, they have now [have come out against it][link] from
-opposition. Conservatives are belatedly starting to see through the rhetoric of
-web safety and observe the hostitlity of the censorship industry.
+This Bill was spawned when Australian regulators, [citing][acma-2021] research
+from [censorship-industry][abc-infl] [tentacles][nrmc] asked for [stronger
+powers][acma-2021-fact-sheet] from the previous conservative government which
+seemed, like it's British counterpart, to have blithely gone along with its
+public servants.  Now in opposition, they have [have come out against
+it][LINK]. Conservatives are belatedly starting to observe the hostitlity of
+the censorship industry.
+
+[acma-2021]: https://www.acma.gov.au/sites/default/files/2021-11/Adequacy%20of%20digital%20platforms%20disinformation%20and%20news%20quality%20measures.pdf
+[abc-infl]: https://www.abc.net.au/news/2021-05-27/australians-say-they-do-not-trust-influencers-but-do-they-really/100164654
+[nmrc]: https://www.canberra.edu.au/research/centres/nmrc
+[acma-2021-fact-sheet]: https://www.acma.gov.au/sites/default/files/2022-03/ACMA%20misinformation%20report_Fact%20sheet%203%20-%20next%20steps_0.pdf
 
 The left also needs to wise up.  That side of politics has always afraid of a
-world in in which security forces can whisper in the ears of powerful censors.
-And those fears are being realised, though perhaps not in the way that anyone
+world in in which authorities can whisper in the ears of powerful censors. And
+those fears are being realised, though perhaps not in the way that anyone
 expected. Today [skeptics of drug companies][link], [Russia-friendly
 doves][link] and even [radical feminists][link] are becoming associated with
 the political right.  Left-wingers who imagine they are winning the culture war
-observe that farfrom their ideas taking over the centres power, those centres
-are taking over the left.
+should observe that far from their ideas taking over the centres power, those
+centres are taking over the left.
 
-With luck liberal force on the right and left, can hold back this legislation.
-But there's no need to just stay on the defensive. If there is a political will
-behind "holding big tech to account", it should be used to entrench free speech
-and open discourse.  Liberals can jiu-jitsu the censorship industry's efforts
-and introduce legislation which guarantees neutrality, transaprency and
+With luck, liberal forces on the right and left can hold back this particular
+law. But there's no need to just stay on the defensive. If there is a political
+will behind "holding big tech to account", it should be used to entrench free
+speech and open discourse.  Liberals can jiu-jitsu the censorship industry's
+efforts and introduce legislation which guarantees neutrality, transaprency and
 procedural fairness in content moderation.
 
-This is no quixiotic demand, to its credit the EU's Digital Services Act
-requires an accessible [process for dispute resultions](
+This is no far-out demand, to its credit the EU's Digital Services Act actually
+requires an accessible [process for dispute resolution](
 https://www.dlapiper.com/en-jp/insights/publications/2023/03/dsa--a-new-era-for-online-dispute-resolution--with-an-irish-twist).
 If such requirements are backed up by substantive rights to free expression and
-real penalties for violating them,  they will constitute a genuine way forward
+real penalties for violating them, they will constitute a genuine way forward
 to a digital world that preserves and re-invigorates basic rights on which
 liberal democracies depend.
 
