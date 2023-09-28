@@ -13,7 +13,7 @@ only line of defense.
 [cic-brownstone]: https://brownstone.org/articles/the-censorship-industrial-complex/
 [cic]: https://judiciary.house.gov/sites/evo-subsites/republicans-judiciary.house.gov/files/evo-media-document/shellenberger-testimony.pdf
 
-<!-- Rowland is moderating the vox populi over ACMA. -->
+<!-- ACMA submission cockup is safetyimm at work. To what end? -->
 
 A good eample of the trend is [Australia's Minister for
 Communications](https://minister.infrastructure.gov.au/rowland) and her concern
@@ -23,49 +23,59 @@ it hard to meet the standards it expects of industry. Having called for public
 submissions about a proposed [Misinformation and Disinformation
 Bill][acma-call], the department has been slow releasing them, citing the need
 to review the submissions  for privacy, legal compliance, and offensive
-content. The first 150 submissions were released a almost month late. It [has
-been reported][23k] that there are about 23,000 in total (the department is has
-not provided it's own numbers).
+content. The first 150 submissions were released a almost month late. 
 
 [acma-call]: https://www.infrastructure.gov.au/have-your-say/new-acma-powers-combat-misinformation-and-disinformation
 [23k]: https://www.liberal.org.au/latest-news/2023/09/15/23000-submissions-comments-made-labors-misinformation-bill-government-still
 
-As an author of one of the unreleased submissions, I wonder what the purpose
-is. Any private information I might reveal in my own document is my own affair,
-and anyone who finds the document offensive can take it up with me. If the
-department feels some legal risk from having user-generated conent on its
-website -- that's a hint that the law reform should aim to reduce rather than
-increase risks. The overall effect of the safetyist urge to moderate content
-has been to mute the voice of the public - a phenomenon that goes well beyound
-this one administrative cockup.
+It [has been reported][23k] that there are about 23,000 in total, the
+department is has not provided it's own number. I can attest that least the
+submission I co-authored remains unpublished.  And having made this submission
+I wonder what the purpose of all that review is is. Any private information I
+might reveal in my own document is my own affair, and anyone who finds the
+document offensive can take it up with me. If the department feels some legal
+risk from having user-generated conent on its website -- that's a hint that the
+law reform should aim to reduce rather than increase risks. 
 
-<!-- The censorship industry is capturing platforms and governments alike -->
+<!-- Safetyism mutes vox populi, violates known principles obscured by CI. -->
 
-Once, back when Twitter's then CEO was lauded for calling his company "the free
-speech wing of the free speech party", the large digital platforms perhaps
-instinctively respected their users and saw their mission as connecting those
-users to their desired sources of information. But over time, the platforms
-were captured by a safetyist ideology which holds that the duty of these
-companies is not to respect their users but to protect them, to serve them but
-not when they request information understood to be hate speech, misinformation,
-disinformation or otherwise harmful.
+The overall effect of the safetyist urge to moderate content has been to mute
+the voice of the public - a phenomenon that goes well beyond this one
+administrative cockup. The safetyist ideology holds that the duty of plaftorms
+not to respect their users, but to protect them. Instead of connecting users to
+those users to their desired sources of information, websites are to shield
+them from those souruces deemed ( (by the censorship industry) are acceptable.
+to be hate speech, misinformation, disinformation or otherwise harmful.
 
-This capture is no accident, it is the work of a is a network of individuals
-and organizations that earn their keep by warning of the dangers of harmful
-information and offering the helpful service of telling the rest of the world
-what information is harmful. 
+History has seen this script before, every regime of censorship has claimed to
+protect the public from harmful discourse. But no regime can have privileged,
+prior knowledge of what is true and good -- it can only know and uphold
+approved narratives. No one sould be fooled into thinking that censorship is
+not censorship just because it is called safety. Nor should anyone forget that
+it is an affront the basic workings of any liberal democracy.
+
+Yet society *is* being fooled; these prinicples of free speech are so
+well-known and time tested that it has become boring and thus lost their hold
+on the minds of young people, their teachers and even of middle-managers. What
+do hold their attention are the talking points of an powerful censorship
+industry. A network of individuals and organizations that earn their keep by
+warning of the dangers of harmful information and offering the helpful service
+of telling the rest of the world what information is harmful. 
+
+<!-- RMIT is an example of the CI. Many more  in Twitter files, etc. -->
 
 A recent example of how this economy works is the [RMIT][rmit-fl] FactLab, a
 research outfit running out of a university but also funded by by Meta
 (Facebook) to fact-check social media posts. It was [suspended by
 Meta][gurdn-rmit] after a an investigation by Sky News found procedural
 irregulatities and a record of [fact-checks favouring one side][sky-rmit] in
-Australia's upcomming Indigenous Voice referandum. The FactLab's head Russel
-Skelton is an open and  well-known left-wing partisan. This is right, everyone
-has the right to hold and make known their political opinions. But few have the
-right to also throttle and suppress the voices of others. Yet the ideology of
-web-safetyism assumes that someone such as he must be entrusted to do just
-that.
+Australia's upcomming Indigenous Voice referandum.
+
+The FactLab's head Russel Skelton is an open and  well-known left-wing
+partisan. This is right, everyone has the right to hold and make known their
+political opinions. But few have the right to also throttle and suppress the
+voices of others. Yet the ideology of web-safetyism assumes that someone such
+as he must be entrusted to do just that.
 
 [gurdn-rmit]: https://www.theguardian.com/australia-news/2023/aug/29/facebook-meta-suspends-rmit-factlab-factchecker-indigenous-voice-to-parliament-referendum
 [sky-rmit]: https://www.skynews.com.au/business/media/the-fact-check-files-inside-the-secretive-and-lucrative-fact-checking-industry-behind-a-foreignfunded-bid-to-censor-voice-debate/news-story/31915e1eb03b029b86a2f03aac19338b
@@ -90,33 +100,19 @@ https://www.courtlistener.com/docket/67563473/238/1/state-of-missouri-v-biden/
 
 
 
-[LINK
-Schellenberger, or Tiabbi, look into the RMIT Fact Lab debacle].
+<!-- Entranced by the censorship industry, wee are unlearning liberal principles.-->
 
 
 
-<-- SNIP
-History has seen this script before, every regime of censorship has claimed to
-protect the public from harmful discourse. But no regime can have privileged,
-prior knowledge of what is true and good -- it can only know and uphold
-approved narratives. No one sould be fooled into thinking that censorship is
-not censorship just because it is called safety. Nor should anyone forget that
-it is an affront the basic workings of any liberal democracy. Yet society *is*
-being fooled; these prinicples of free speech are so well-known and time tested
-that it has become boring and thus lost their hold on the minds of young
-people, their teachers and even of middle-managers.
 
-What do hold their attention are the talking points of an powerful censorship
-industry.
--->
 
 The censorship industry has a self-justifying ideology about the importance of
 connecting the public to trusted source of information and protecting it from
-harmful ideas. This ideology has been known and refuted since the
-Englightenment, but the hacks of the industry aren't obliged to pay attention.
-They are, however, obliged to follow the law and every country has a
-constitutional order underpinning it's own laws.  In the United States, a
-centrepiece of that order is the first Amendment, which says:
+harmful ideas. The hacks of the industry aren't obliged to pay attention to the
+refutations of this ideology that had been known since the Englightenment. They
+are, however, obliged to follow the law and every country has a constitutional
+order underpinning it's own laws.  In the United States, a centrepiece of that
+order is the first Amendment, which says:
 
 > Congress shall make no law respecting an establishment of religion, or
 > prohibiting the free exercise thereof; or abridging the freedom of speech, or
@@ -210,7 +206,7 @@ acknowledged, let alone justified relative to some legal standard. Governments
 and the censorship industry have not been shy about taking advantage of the
 opportunity to skirt their own norms. 
 
-The American government is exception, as is best documented in the [Twitter
+The American government is no exception, as is best documented in the [Twitter
 Files][TRACK DOWN LINKS & REPORTERS NAMES]. This reporting from [NAME SOME
 TWITTER FILE REPORTERS] which shows the elaborately organised channels through
 which American security agencies gave instructions to Twitter and other
