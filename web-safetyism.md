@@ -98,12 +98,7 @@ list A long list of disinformation campaigns conducted by these groups.
 https://www.courtlistener.com/docket/67563473/238/1/state-of-missouri-v-biden/
 
 
-
-
-<!-- Entranced by the censorship industry, wee are unlearning liberal principles.-->
-
-
-
+<!-- Constitutions matter, but do they protect speech on private platforms?  -->
 
 
 The censorship industry has a self-justifying ideology about the importance of
@@ -128,39 +123,38 @@ For example, [article 5](https://www.gesetze-im-internet.de/gg/art_5.html) of
 Germany's constitution avers that "These [free expression] rights shall find
 their limits in the provisions of general laws."
 
-American courts have however stopped short of applying their First Amendment to
-the dealings that private entities have with each other.  There are good rasons
-for this: if hostess Alice is perfectly entitled to throw Holocaust denying Bob
-out of her dinner party, even though Holocaust denial is protected by the first
-Amendment.  At least until some positive statue says otherwise, Bob will just
-have to exercise is right elsewhere; and even such statutes will have to
-respect with Alice's own rights of free speech and association.
+But even the American courts have stopped short of applying their First
+Amendment to the dealings that private entities have with each other.  There
+are good reasons for this: hostess Alice is perfectly entitled to throw
+Holocaust denying Bob out of her dinner party, even though Holocaust denial is
+protected by the first Amendment.  Bob will just have to exercise is right
+elsewhere, at least until some positive statue says otherwise; and even such
+statutes will have to respec Alice's own rights of free speech and association.
 
-All this becomes a very live issue when we encounter censorship by digital
-platforms. Services such as a social networks and search engines are not
-telephone lines; when we engage these services we want them to filter out spam,
-or rank order search results.  We neither desire nor expect a passively neutral
-conduit of information. Yet we can desire  an _active neutrality_ that respects
-the user. Searches should rank results by relevance to the user, and not by
-social desirability and if a message is filtered away as spam, that should be
-because the user does not want it.
+All this theory becomes a very live issue when public disocurse moves onto
+privately own digital platforms. Services such as a social networks and search
+engines are not telephone lines; when we engage these services we want them to
+filter out spam, or rank order search results.  We neither desire nor expect a
+passively neutral conduit of information. Yet we can desire  an _active
+neutrality_ that respects the user. Searches should rank results by relevance
+to the user, and not by social desirability. If a message is filtered away as
+spam, that should be because the user does not want it.
 
-Instead, thanks to web safetyism, the platforms began to filter based on what
-user _ought_ to want.  They chose to respect the censorship industry more than
-their users. This would be one thing these platforms were merely a handful of
-publishers among many. But no, they are called platforms for a reason; they are
-the platforms on which modern public discourse happen.
+Instead, under the spell of to web safetyism, the platforms began to filter
+based on what user _ought_ to want.  They chose to respect the censorship
+industry more than their users. This would be one thing these platforms were
+merely a handful of publishers among many. But no, they are called platforms
+for a reason; they are the platforms on which modern public discourse happen.
 
 Governments should be concerned about this fundamental threat to democracy; and
 in principle this situation should have been a one-up for those constitutions
 which give the governments to tackle it without America's Madisonian
-hand-wringing about the speech rights of the platforms themselves.
-
-Instead governments of democracies around the world have used their free hand to
-do just the opposite. Instead of requiring companies to respect the user enough
-to providing them a platforms to discuss their viewpoints freely, these
-countries are instead legislating to demand that these companies comply with
-the censorship industry.
+hand-wringing about the speech rights of the platforms themselves. Instead
+governments of democracies around the world have used their free hand to do
+just the opposite. Instead of requiring companies to respect the user enough to
+providing them a platforms to discuss their viewpoints freely, these countries
+are instead legislating to demand that these companies comply with the
+censorship industry.
 
 The laws include Britain's Online Safety Bill and the EU's the Digital Services
 Act, successor to various laws like Germany's infamous NetzDG. Among other
