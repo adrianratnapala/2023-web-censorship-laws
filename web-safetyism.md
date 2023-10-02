@@ -1,12 +1,12 @@
 It has long been noted that in this internet age, where public discourse has
 moved onto digital platforms owned and controlled by a handful of private
-companies, censorship is by private companies more vigorous and constricting
+companies, censorship by private companies is more vigorous and constricting
 than the government version. This challenge to the state-limiting ethos behind
 America's Constitution was a chance for governments across the free world to
 show Uncle Sam the inferiority of his ways. Instead, they are choosing to
 vindicate the most paranoid rantings of gun-toting, liberty fanatics.
-Increasingly capatured by rising [censorship industry][cic] and its ideology of
-*web sayfetyism*, governments are starting to make censorship mandatory. And
+Increasingly captured by the rising [censorship industry][cic] and its ideology
+of *web safetyism*, governments are starting to make censorship mandatory. And
 perhaps America's fusty old constitutional order will prove to be the world's
 only line of defense.
 
@@ -15,52 +15,56 @@ only line of defense.
 
 <!-- ACMA submission cockup is safetyimm at work. To what end? -->
 
-A good eample of the trend is [Australia's Minister for
-Communications](https://minister.infrastructure.gov.au/rowland) and her concern
-to hold digital platforms to account for supposedly inadequate moderation of
-user generated content. Ironically, but unsprisingly, her department is finding
-it hard to meet the standards it expects of industry. Having called for public
-submissions about a proposed [Misinformation and Disinformation
-Bill][acma-call], the department has been slow releasing them, citing the need
-to review the submissions  for privacy, legal compliance, and offensive
-content. The first 150 submissions were released a almost month late. 
+A good example of the trend is [Australia's Minister for Communications][rowland]
+and her concern to hold digital platforms to account for supposedly inadequate
+moderation of user-generated content. Ironically, but unsurprisingly, her
+department is finding it hard to meet the standards it expects of industry.
+Having called for public submissions about a proposed [Misinformation and
+Disinformation Bill][acma-call], the department has been slow releasing
+them, citing the need to review the submissions for privacy, legal compliance,
+and offensive content. The first 150 submissions were released almost a month late.
 
+
+[rowland]: (https://minister.infrastructure.gov.au/rowland
 [acma-call]: https://www.infrastructure.gov.au/have-your-say/new-acma-powers-combat-misinformation-and-disinformation
 [23k]: https://www.liberal.org.au/latest-news/2023/09/15/23000-submissions-comments-made-labors-misinformation-bill-government-still
 
-It [has been reported][23k] that there are about 23,000 in total, the
-department is has not provided it's own number. I can attest that least the
-submission I co-authored remains unpublished.  And having made this submission
-I wonder what the purpose of all that review is is. Any private information I
-might reveal in my own document is my own affair, and anyone who finds the
-document offensive can take it up with me. If the department feels some legal
-risk from having user-generated conent on its website -- that's a hint that the
-law reform should aim to reduce rather than increase risks. 
+It [has been reported][23k] that there are about 23,000 submissions in total,
+(the department has not provided its own number). I can attest that at least
+the submission I co-authored remains unpublished. And having made this
+submission, I wonder what the purpose of all that review is. Any private
+information I might reveal in my own document is my own affair, and anyone who
+finds the document offensive can take it up with me. If the department feels
+some legal risk from having user-generated content on its website, that's a
+hint that the law reform should aim to reduce rather than increase such risks.
+
 
 <!-- Safetyism mutes vox populi, violates known principles obscured by CI. -->
 
 The overall effect of the safetyist urge to moderate content has been to mute
 the voice of the public - a phenomenon that goes well beyond this one
-administrative cockup. The safetyist ideology holds that the duty of plaftorms
-not to respect their users, but to protect them. Instead of connecting users to
-those users to their desired sources of information, websites are to shield
-them from those souruces deemed ( (by the censorship industry) are acceptable.
-to be hate speech, misinformation, disinformation or otherwise harmful.
+administrative cockup. The safetyist ideology holds that the duty of platforms
+is not to respect their users, but to protect them. Instead of connecting users
+to their desired sources of information, websites are to shield them from those
+sources deemed (by the censorship industry), to be hate speech, misinformation,
+disinformation, or otherwise harmful.
 
-History has seen this script before, every regime of censorship has claimed to
-protect the public from harmful discourse. But no regime can have privileged,
-prior knowledge of what is true and good -- it can only know and uphold
-approved narratives. No one sould be fooled into thinking that censorship is
-not censorship just because it is called safety. Nor should anyone forget that
-it is an affront the basic workings of any liberal democracy.
+History has seen this script before; every regime of censorship has claimed to
+protect the public from harmful discourse. But in truth no regime can have
+privileged, prior knowledge of what is true and good.  It can only know and
+uphold approved narratives. No one should be fooled into thinking that
+censorship is not censorship just because it is called safety. Nor should
+anyone forget that censorship is an threat to the basic workings of any liberal
+democracy.
 
-Yet society *is* being fooled; these prinicples of free speech are so
-well-known and time tested that it has become boring and thus lost their hold
-on the minds of young people, their teachers and even of middle-managers. What
-do hold their attention are the talking points of an powerful censorship
+Yet society *is* being fooled; these principles of free speech are so
+well-known and time-tested that they have become boring and thus lost their hold
+on the minds of young people, their teachers, and even middle-managers. What
+does hold their attention are the talking points of a powerful censorship
 industry. A network of individuals and organizations that earn their keep by
 warning of the dangers of harmful information and offering the helpful service
-of telling the rest of the world what information is harmful. 
+of telling the rest of the world what information is harmful.
+
 
 <!-- RMIT is an example of the CI. Many more  in Twitter files, etc. -->
 
