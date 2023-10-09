@@ -69,36 +69,35 @@ of telling the rest of the world what information is harmful.
 <!-- RMIT is an example of the CI. Many more  in Twitter files, etc. -->
 
 A recent example of how this economy works is the [RMIT][rmit-fl] FactLab, a
-research outfit running out of a university but also funded by by Meta
-(Facebook) to fact-check social media posts. It was [suspended by
-Meta][gurdn-rmit] after a an investigation by Sky News found procedural
-irregulatities and a record of [fact-checks favouring one side][sky-rmit] in
-Australia's upcomming Indigenous Voice referandum.
+research outfit running out of a university but also funded by Meta (Facebook)
+to fact-check social media posts. It was [suspended by Meta][gurdn-rmit] after
+an investigation by Sky News found procedural irregularities and a record of
+[fact-checks favoring one side][sky-rmit] in Australia's upcoming Indigenous
+Voice referendum.
 
-The FactLab's head Russel Skelton is an open and  well-known left-wing
-partisan. This is right, everyone has the right to hold and make known their
-political opinions. But few have the right to also throttle and suppress the
-voices of others. Yet the ideology of web-safetyism assumes that someone such
-as he must be entrusted to do just that.
+The FactLab's head, Russell Skelton, is an open and well-known left-wing
+partisan. This is his right; everyone has the right to hold and make known
+their political opinions. But few have the power to also throttle and suppress
+the voices of others. Yet the ideology of web-safetyism assumes that someone
+must be entrusted to do just that.
 
 [gurdn-rmit]: https://www.theguardian.com/australia-news/2023/aug/29/facebook-meta-suspends-rmit-factlab-factchecker-indigenous-voice-to-parliament-referendum
 [sky-rmit]: https://www.skynews.com.au/business/media/the-fact-check-files-inside-the-secretive-and-lucrative-fact-checking-industry-behind-a-foreignfunded-bid-to-censor-voice-debate/news-story/31915e1eb03b029b86a2f03aac19338b
-
 [rmit-letter]: https://www.skynews.com.au/wp-content/uploads/2023/08/RMIT-letter-to-Ashurst-re-SkyNews-18-July-2023_Redacted.pdf
 
-The RMIT debacle is of course just one vignette in a larger international story
-that is emerging from legal discovery in cases such as [Missouri vs.
-Biden][m-vs-b] and revelations from from the [Twitter Files][LINK] by Michael
-Schellenberger, Matt Tiabbi, Barri Weiss and other journalists.
+The RMIT debacle is, of course, just one vignette in a larger international
+story that is emerging from legal discovery in cases such as [Missouri vs.
+Biden][m-vs-b] and revelations from the [Twitter Files][twif] by Michael
+Schellenberger, Matt Taibbi, Bari Weiss, and other journalists.
 Schellenberger's subsequent [testimony to the US Congress][schell-cong]
-documents a zoo of disinformation research organisations that receive funding
-and personell from the US intelligence services [LINK], A coterie of officials
-moving between those services and senior roles at big tech companies and a long
-list A long list of disinformation campaigns conducted by these groups. 
+documents a zoo of disinformation research organizations that receive funding
+and personnel from the US intelligence services, a coterie of officials moving
+between those services and senior roles at big tech companies, and a long list
+of disinformation campaigns conducted by these groups.
 
+[twif]: https://en.wikipedia.org/wiki/Twitter_Files
 [schell-cong]: https://judiciary.house.gov/sites/evo-subsites/republicans-judiciary.house.gov/files/evo-media-document/shellenberger-testimony.pdf
-  
-[m-vs-b]: LINK
+[m-vs-b]: https://www.courtlistener.com/docket/67563473/238/1/state-of-missouri-v-biden/
 
 
 
