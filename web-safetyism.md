@@ -104,17 +104,17 @@ of disinformation campaigns conducted by these groups.
 <!-- Constitutions matter, but do they protect speech on private platforms?  -->
 
 Like any activist industry, the censorship industry attracts funding for
-tackling some ideologically identified problem, and then invest that generating
-research-propaganda demonstrating the importance of that issue.  The result is
-a whole institional ecosystem co-evolving with some self-justifying ideology.
-In this case that ideology is about connecting the public to trusted source of
-information and protecting it from harmful ideas. 
+tackling some ideologically identified problem, and then invests that to
+generate research-propaganda about how important that issue is. The result is a
+whole institutional ecosystem co-evolving with some self-justifying ideology.
+In this case, that ideology is about connecting the public to trusted sources
+of information and protecting it from harmful ideas.
 
 The hacks of the industry aren't obliged to pay attention to the refutations of
-this ideology that had been known since the Englightenment. They are, however,
-obliged to follow the law and every country has a constitutional order
-underpinning it's own laws. In the United States, a centrepiece of that order
-is the first Amendment, which says:
+this ideology that have been known since the Enlightenment. They are, however,
+obliged to follow the law, and every country has a constitutional order
+underpinning its own laws. In the United States, a centrepiece of that order is
+the First Amendment, which says:
 
 > Congress shall make no law respecting an establishment of religion, or
 > prohibiting the free exercise thereof; or abridging the freedom of speech, or
@@ -123,36 +123,36 @@ is the first Amendment, which says:
 
 Under modern case law, this has become a stunningly broad limit on the powers
 of government. Going far beyond the literal text, it tightly constrains the
-power of any arm of any American government, whether federal, state or to
-abridging the freedom of speech or the press. Although all free countries
-espouse the freedom of speech, few are so willing to clip government's wings.
-For example, [article 5](https://www.gesetze-im-internet.de/gg/art_5.html) of
-Germany's constitution avers that "These [free expression] rights shall find
+power of any arm of any American government, whether federal, state, or local,
+from abridging the freedom of speech or the press. Although all free countries
+espouse the freedom of speech, few are so willing to clip the government's
+wings. For example, [Article 5](https://www.gesetze-im-internet.de/gg/art_5.html)
+of Germany's constitution avers that "These [free expression] rights shall find
 their limits in the provisions of general laws."
 
 But even the American courts have stopped short of applying their First
-Amendment to the dealings that private entities have with each other.  There
+Amendment to the dealings that private entities have with each other. There
 are good reasons for this: hostess Alice is perfectly entitled to throw
-Holocaust denying Bob out of her dinner party, even though Holocaust denial is
-protected by the first Amendment.  Bob will just have to exercise is right
-elsewhere, at least until some positive statue says otherwise; and even such
+Holocaust-denying Bob out of her dinner party, even though Holocaust denial is
+protected by the First Amendment. Bob will just have to exercise his right
+elsewhere, at least until some positive statute says otherwise; and even such
 statutes will have to respect Alice's own rights of free speech and
 association.
 
-All this theory becomes a very live issue when public disocurse moves onto
-privately own digital platforms. Services such as a social networks and search
-engines are not telephone lines; when we engage these services we want them to
-filter out spam, or rank order search results.  We neither desire nor expect a
-passively neutral conduit of information. Yet we can desire  an _active
+All this theory becomes a very live issue when public discourse moves onto
+privately owned digital platforms. Services such as social networks and search
+engines are not telephone lines; when we engage these services, we want them to
+filter out spam or rank order search results. We neither desire nor expect a
+passively neutral conduit of information. Yet we can desire an _active
 neutrality_ that respects the user. Searches should rank results by relevance
-to the user, and not by social desirability. If a message is filtered away as
+to the user and not by social desirability. If a message is filtered away as
 spam, that should be because the user does not want it.
 
-Instead, under the spell of to web safetyism, the platforms began to filter
-based on what user _ought_ to want.  They chose to respect the censorship
-industry more than their users. This would be one thing these platforms were
-merely a handful of publishers among many. But no, they are called platforms
-for a reason; they are the platforms on which modern public discourse happen.
+Instead, under the spell of web safetyism, the platforms began to filter based
+on what users _ought_ to want. They chose to respect the censorship industry
+more than their users. This would be one thing if these platforms were merely a
+handful of publishers among many. But no, they are called platforms for a
+reason; they are the platforms on which modern public discourse happens.
 
 <!-- Governments are mandating censorship, captured by the CI -->
 
