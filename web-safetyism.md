@@ -173,19 +173,19 @@ censorship industry.
 The laws include Britain's Online Safety Bill and the EU's the Digital Services
 Act, successor to various laws like Germany's infamous NetzDG. Among other
 things, these laws require platforms to quickly block illegal content. The
-Australian government is going to the next frontier of suppressing *legal*
-content. 
+[Australia's proposed new law][acma-call] is going to the next frontier of
+suppressing *legal* content. 
 
-A [proposed new bill][LINK] binds digital platforms to mandatory Misinformation
-Codes and Standards that require them to block content defined as
-misinformation. The definition of misinformation is rather vague, but the Bill
-makes a clear exception for the speech of government, officially recognized
-media, and educational instutions (inlcuding even those owned by foreign
-governments). Like all of thse laws, Australi'as it pays lip service to
-balancing its restrictions with free speech, but does so toothlessly.
-Authorities are asked politely to consider free speech in their deliberations
-but no actionable limits are set on their censorship, nor are there penalties
-for silencing people.
+The draft bill binds digital platforms to mandatory Misinformation Codes and
+Standards that require them to block content defined as misinformation. The
+definition of misinformation is rather vague, but the Bill makes a clear
+exception for the speech of government, officially recognized media, and
+educational instutions (inlcuding even those owned by foreign governments).
+Like all of thse laws, Australi'as it pays lip service to balancing its
+restrictions with free speech, but does so toothlessly. Authorities are asked
+politely to consider free speech in their deliberations but no actionable
+limits are set on their censorship, nor are there penalties for silencing
+people.
 
 This bill carries on a common theme in such legilsation: it pushes the
 decisions onto the platforms who alerady posess the discretion to block content
