@@ -223,23 +223,27 @@ Amendment.
 
 <!-- There is pushback, through courts, law and the market -->
 
-Resistance ot this covert approach is just beginning to find it's feet. Court
+
+Resistance to this covert approach is just beginning to find its feet. Court
 challenges like [Missouri v. Biden][m-vs-b] have given American courts the
-chance to frown on agencies censoring by proxy. Some American states have also
-started to legislate against censorship by digital platforms [LINK TEXAS HB20,
-FLORIDA BILL]. But the most potent response of all has been from the market.
-Free-thinking journals like [Quillete][ql] and [UnhHerd][un] surged in
-popularity even before [Substack][sb] supercharged the phenomenon by
-popularising commercial blogging for the orthodox and heteredox alike.
-[Twitter/X][tx] has has become a more open place since Elon Musk's quixotic
-takeover. [Rumble][rb] has become a viable choice for those who need an
-alternative to YouTube. The list goes on.
+chance to frown on agencies censoring by proxy. American courts are also slowly
+digesting statues in [Texas][hb20] and [Florida][sb7072] against censorship by
+digital platforms.
+
+But the most potent response of all has been from the market. Free-thinking
+journals like [Quillette][ql] and [UnHerd][un] surged in popularity even before
+[Substack][sb] supercharged the phenomenon by popularising commercial blogging for
+the orthodox and heterodox alike. [Twitter/X][tx] has become a more open place
+since Elon Musk's quixotic takeover. [Rumble][rb] has become a viable choice for
+those who need an alternative to YouTube. The list goes on.
 
 [ql]: https://quillette.com/
 [un]: https://unherd.com/
 [sb]: https://substack.com/
 [tx]: https://twitter.com/
 [rb]: https://rumble.com/
+[hb20]: https://en.wikipedia.org/wiki/Texas_House_Bill_20
+[sb7072]: https://www.flsenate.gov/Session/Bill/2021/7072
 
 The consensus around what narratives to support or suppress is cracking. Yet
 even as voluntary private-sector censorship begins to falter, governments are
@@ -249,19 +253,20 @@ challenges of the new age. In a world where posts go viral, it would simply be
 too expensive to actually prosecute the bad guys or otherwise to be bound by
 the rule of law.
 
-Yet far for being a response to new circumstances, this innovation is a
-throwback to the dawn of the printing press. Renaissance princes as found it
-much easier to regulate printers than authors and much more effective to
-quietly strangle publication than to risk high-profile trials.
+Yet far from being a response to new circumstances, this innovation is a
+throwback to the dawn of the printing press. Renaissance princes found it much
+easier to regulate printers than authors and much more effective to quietly
+strangle publication than to risk high-profile trials.
 
 The failure of this approach should be a warning from history. Today the
-printing presses of the advanced world are remarkably free.  Whatever laws
-might regulate the electronic media, it is the sacred right of the literati to
-put almost any kind of [smut][50shades] or [nononsense][daskap] into print.
-This sacred right is the outcome of a Darwinian process where minority of
-societies taking this seemingly immoderate approach included those that were
-long lived, prosperous, powerful or humane enough to set the standards for the
-civilsed world.
+printing presses of the advanced world are remarkably free. Whatever laws might
+regulate the electronic media, it is the sacred right of the literati to put
+almost any kind of [smut][50shades] or [nonsense][daskap] into print. This
+sacred right is the outcome of a Darwinian process. The minority of societies
+that took this seemingly immoderate approach included those that were
+long-lived, prosperous, powerful, and humane enough to set the standards for
+the civilised world.
+
 
 [50shades]: https://en.wikipedia.org/wiki/Fifty_Shades_of_Grey
 [daskap]: https://en.wikipedia.org/wiki/Das_Kapital
