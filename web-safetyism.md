@@ -157,71 +157,69 @@ reason; they are the platforms on which modern public discourse happens.
 <!-- Governments are mandating censorship, captured by the CI -->
 
 Governments should be concerned about this fundamental threat to democracy; and
-in principle this situation should have been a one-up for those constitutions
-which give the governments to tackle it without America's Madisonian
-hand-wringing about the speech rights of the platforms themselves. Instead
+in principle, this situation should have been a one-up for those constitutions
+which give the governments the power to tackle it without America's Madisonian
+hand-wringing about the speech rights of the platforms themselves. Instead,
 governments of democracies around the world have used their free hand to do
-just the opposite.  Web-safety and the newly mediated public discourse has
-re-invigorated the ancient and natural interests that governments have in
-censorship.
+just the opposite. 
 
-Instead of requiring companies to respect the user enough to
-providing them a platforms to discuss their viewpoints freely, these countries
-are instead legislating to demand that these companies comply with the
-censorship industry.
+Web-safety and the newly mediated public discourse have re-invigorated the
+ancient and natural interests that governments have in censorship. Instead of
+requiring companies to respect the user enough to provide a platform to discuss
+their viewpoints freely, these countries are instead legislating to demand that
+these companies comply with the censorship industry.
 
-The laws include Britain's Online Safety Bill and the EU's the Digital Services
-Act, successor to various laws like Germany's infamous NetzDG. Among other
-things, these laws require platforms to quickly block illegal content. The
-[Australia's proposed new law][acma-call] is going to the next frontier of
-suppressing *legal* content. 
+The laws include Britain's Online Safety Bill and the EU's Digital Services Act,
+successor to various laws like Germany's infamous NetzDG. Among other things,
+these laws require platforms to quickly block illegal content. Australia's
+proposed new law is going to the next frontier of suppressing *legal* content.
 
 The draft bill binds digital platforms to mandatory Misinformation Codes and
 Standards that require them to block content defined as misinformation. The
 definition of misinformation is rather vague, but the Bill makes a clear
 exception for the speech of government, officially recognized media, and
-educational instutions (inlcuding even those owned by foreign governments).
-Like all of thse laws, Australi'as it pays lip service to balancing its
-restrictions with free speech, but does so toothlessly. Authorities are asked
-politely to consider free speech in their deliberations but no actionable
-limits are set on their censorship, nor are there penalties for silencing
-people.
+educational institutions (including even those owned by foreign governments).
+Like all of these laws, Australia's pays lip service to balancing its
+restrictions with free speech. But like all of these laws it does so
+toothlessly. Authorities are asked politely to consider free speech in their
+deliberations, but no actionable limits are set on their censorship, nor are
+there penalties for silencing people.
 
-This bill carries on a common theme in such legilsation: it pushes the
-decisions onto the platforms who alerady posess the discretion to block content
-without having to show that it violates any law. That discretion will be
-exercised under the shadow of laws which not punish them for permitting
-disapproved speech and not punish them for censoring legal speech.
+This bill carries on a common theme in such legislation: it pushes the
+decisions onto the platforms who already possess the discretion to block
+content without having to show that it violates any law. That discretion will
+be exercised under the shadow of laws which dpunish them for permitting
+disapproved speech and do but punish them for censoring legal, truthful speech.
 
 The Bill defines harmful speech and misinformation in vague and expansive ways.
-But even when laws like this are on their foace uisng clear definitions aligned
+But even when laws like this are on their face using clear definitions aligned
 with well-established democratic norms, the censorship would go far beyond
-that. These law do not subject individual decisions to censor to any legal
-procedure, instead they are left to up to risk-averse corporations who need to
+that. These laws do not subject individual decisions to censor to any legal
+procedure; instead, they are left up to risk-averse corporations who need to
 stay in the good-books of a regulator.
 
 These laws are not simply an expression of these countries' own constitutional
-norms. They are a dodge around those norms. Democarcies boast speech because
+norms. They are a dodge around those norms. Democracies boast speech because
 citizens can't be muzzled at the mere say-so of some censor. Even in
-democracies with nothing like America's First Amendment, speech can only be
-limited by definite laws. That's why Germany's constitution names **general**
-laws (along with the protection of young persons and the right to personal
-honour) as the limits on free speech.
+democracies with nothing like America's First Amendment, speech traditinal can
+only be limited by definite laws. That's why Germany's constitution names
+**general** laws (along with the protection of young persons and the right to
+personal honour) as the limits on free speech.
 
 Today's intermediated internet is far less protective than this tradition.
 Posts can quietly disappear or be down-ranked without the action ever being
 acknowledged, let alone justified relative to some legal standard. Governments
 and the censorship industry have not been shy about taking advantage of the
-opportunity to skirt their own norms. 
+opportunity to skirt their own norms.
 
 This is one more example of an industry capturing the permanent apparat of
 otherwise democratic states. Civil servants are a natural constituency for
-technocratic-paternalist ideas like web safetyism -- especially when it
-justifies muting complaints about their own performance. As uncovered by the
-Twitter File and related controversies, the American government is no
-exception. The security forces and other agencies there are still keen to
-pressure the platforms, even if they must do so covertly enough to skirt the
-first Amendment.
+technocratic-paternalist ideas like web safetyism—especially when it justifies
+muting complaints about their own performance. As uncovered by the Twitter
+Files and related controversies, the American government is no exception. The
+security forces and other agencies there are still keen to pressure the
+platforms, even if they must do so covertly enough to skirt the First
+Amendment.
 
 <!-- There is pushback, through courts, law and the market -->
 
