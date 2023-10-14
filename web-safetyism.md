@@ -280,9 +280,8 @@ start.  But the rest of the world should not wait for America.
 Liberalism in Australia is also showing belated signs of fighting spirit. The
 government's new misinformation law has not yet passed, and is looking
 increasingly friendless. It has been denounced by Australia's [Human Rights
-Commission][LINK], by the [Victorian Bar Association][LINK] and by [prominent
-scholars][LIINK] and [Publications][LINK].  Prime Minister Anthony
-Albanese even seems to by [trying to deny][LINK] it's existence.
+Commissioner][finlay], by the [Victorian Bar Association][vb] and by [prominent
+scholars][ausr] and [Publications][ql-macdonald].
 
 This Bill was spawned when Australian regulators, [citing][acma-2021] research
 from [censorship-industry][abc-infl] [tentacles][nrmc] asked for [stronger
@@ -291,6 +290,12 @@ seemed, like it's British counterpart, to have blithely gone along with its
 public servants.  Now in opposition, they have [have come out against
 it][LINK]. Conservatives are belatedly starting to observe the hostitlity of
 the censorship industry.
+
+[vb]: https://www.lawyersweekly.com.au/wig-chamber/37834-draft-misinformation-bill-will-create-illiberal-double-standard-vic-bar
+[finlay]: https://www.lawyersweekly.com.au/wig-chamber/37834-draft-misinformation-bill-will-create-illiberal-double-standard-vic-bar
+[ausrat]: https://www.theaustralian.com.au/nation/misinformation-laws-elitist-selfserving-academic-suri-ratnapala-says/news-story/4dd2415121590f8021c06c87a5f54efb
+[ql-macdonald]: https://quillette.com/2023/07/31/the-misinformation-panic/
+
 
 [acma-2021]: https://www.acma.gov.au/sites/default/files/2021-11/Adequacy%20of%20digital%20platforms%20disinformation%20and%20news%20quality%20measures.pdf
 [abc-infl]: https://www.abc.net.au/news/2021-05-27/australians-say-they-do-not-trust-influencers-but-do-they-really/100164654
