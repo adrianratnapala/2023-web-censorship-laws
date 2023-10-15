@@ -274,61 +274,58 @@ the civilised world.
 Will civilisation have to re-learn this lesson the hard way? To prevent this,
 people must push back against the language of online safety and harm and
 reground their traditional liberal approaches. America's dynamic entrepreneurs,
-stroppy governers and hair-splitting constitutional lawyers are making a good
-start.  But the rest of the world should not wait for America.
+stroppy governors and hair-splitting constitutional lawyers are making a good
+start. But the rest of the world should not wait for America.
 
 Liberalism in Australia is also showing belated signs of fighting spirit. The
 government's new misinformation law has not yet passed, and is looking
 increasingly friendless. It has been denounced by Australia's [Human Rights
 Commissioner][finlay], by the [Victorian Bar Association][vb] and by [prominent
-scholars][ausr] and [Publications][ql-macdonald].
+scholars][ausrat] and [Publications][ql-macdonald].
 
 This Bill was spawned when Australian regulators, [citing][acma-2021] research
 from [censorship-industry][abc-infl] [tentacles][nrmc] asked for [stronger
 powers][acma-2021-fact-sheet] from the previous conservative government which
-seemed, like it's British counterpart, to have blithely gone along with its
-public servants.  Now in opposition, they have [have come out against
-it][LINK]. Conservatives are belatedly starting to observe the hostitlity of
+seemed, like its British counterpart, to have blithely gone along with its
+public servants. Now in opposition, they have [come out against
+it][LINK]. Conservatives are belatedly starting to observe the hostility of
 the censorship industry.
 
 [vb]: https://www.lawyersweekly.com.au/wig-chamber/37834-draft-misinformation-bill-will-create-illiberal-double-standard-vic-bar
 [finlay]: https://www.lawyersweekly.com.au/wig-chamber/37834-draft-misinformation-bill-will-create-illiberal-double-standard-vic-bar
 [ausrat]: https://www.theaustralian.com.au/nation/misinformation-laws-elitist-selfserving-academic-suri-ratnapala-says/news-story/4dd2415121590f8021c06c87a5f54efb
 [ql-macdonald]: https://quillette.com/2023/07/31/the-misinformation-panic/
-
-
 [acma-2021]: https://www.acma.gov.au/sites/default/files/2021-11/Adequacy%20of%20digital%20platforms%20disinformation%20and%20news%20quality%20measures.pdf
 [abc-infl]: https://www.abc.net.au/news/2021-05-27/australians-say-they-do-not-trust-influencers-but-do-they-really/100164654
-[nmrc]: https://www.canberra.edu.au/research/centres/nmrc
+[nrmc]: https://www.canberra.edu.au/research/centres/nmrc
 [acma-2021-fact-sheet]: https://www.acma.gov.au/sites/default/files/2022-03/ACMA%20misinformation%20report_Fact%20sheet%203%20-%20next%20steps_0.pdf
 
-The left also needs to wise up.  That side of politics has always afraid of a
-world in in which authorities can whisper in the ears of powerful censors. And
-those fears are being realised, though perhaps not in the way that anyone
+The left also needs to wise up. That side of politics has always been afraid of a
+world in which authorities can whisper in the ears of powerful censors. And
+those fears are being realized, though perhaps not in the way that anyone
 expected. Today [skeptics of drug companies][link], [Russia-friendly
 doves][link] and even [radical feminists][link] are becoming associated with
-the political right.  Left-wingers who imagine they are winning the culture war
-should observe that far from their ideas taking over the centres power, those
-centres are taking over the left.
+the political right. Left-wingers who imagine they are winning the culture war
+should observe that far from their ideas taking over the centers of power, those
+centers are taking over the left.
 
 With luck, liberal forces on the right and left can hold back this particular
 law. But there's no need to just stay on the defensive. If there is a political
 will behind "holding big tech to account", it should be used to entrench free
-speech and open discourse.  Liberals can jiu-jitsu the censorship industry's
-efforts and introduce legislation which guarantees neutrality, transaprency and
+speech and open discourse. Liberals can jiu-jitsu the censorship industry's
+efforts and introduce legislation which guarantees neutrality, transparency, and
 procedural fairness in content moderation.
 
 This is no far-out demand, to its credit the EU's Digital Services Act actually
 requires an accessible [process for dispute resolution](
 https://www.dlapiper.com/en-jp/insights/publications/2023/03/dsa--a-new-era-for-online-dispute-resolution--with-an-irish-twist).
 If such requirements are backed up by substantive rights to free expression and
-real penalties for violating them, they will constitute a genuine way forward
-to a digital world that preserves and re-invigorates basic rights on which
-liberal democracies depend.
+real penalties for violating them, they will constitute a genuine way forward to
+a digital world that preserves and re-invigorates basic rights on which liberal
+democracies depend.
 
 Nobody likes their social media feed to be full of scams and vitriol, nor do
 parents want their children subjected to bullying and indoctrination via their
-phones.  But we can fight that without handing power to censorious,
+phones. But we can fight that without handing power to censorious,
 indoctrinating bullies who treat us all like children.
-
 
