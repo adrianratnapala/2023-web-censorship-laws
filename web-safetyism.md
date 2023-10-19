@@ -288,7 +288,7 @@ from [censorship-industry][abc-infl] [tentacles][nrmc] asked for [stronger
 powers][acma-2021-fact-sheet] from the previous conservative government which
 seemed, like its British counterpart, to have blithely gone along with its
 public servants. Now in opposition, they have [come out against
-it][LINK]. Conservatives are belatedly starting to observe the hostility of
+it][sky-dutton]. Conservatives are belatedly starting to observe the hostility of
 the censorship industry.
 
 [vb]: https://www.lawyersweekly.com.au/wig-chamber/37834-draft-misinformation-bill-will-create-illiberal-double-standard-vic-bar
@@ -299,15 +299,20 @@ the censorship industry.
 [abc-infl]: https://www.abc.net.au/news/2021-05-27/australians-say-they-do-not-trust-influencers-but-do-they-really/100164654
 [nrmc]: https://www.canberra.edu.au/research/centres/nmrc
 [acma-2021-fact-sheet]: https://www.acma.gov.au/sites/default/files/2022-03/ACMA%20misinformation%20report_Fact%20sheet%203%20-%20next%20steps_0.pdf
+[sky-dutton]: https://www.skynews.com.au/australia-news/it-is-an-attack-on-free-speech-peter-dutton-slams-labors-misinformation-laws-as-coalition-launches-petition-to-bin-the-bill/news-story/5a1b7b1ac4bf3188c0b6b40b7738b40a
 
-The left also needs to wise up. That side of politics has always been afraid of a
-world in which authorities can whisper in the ears of powerful censors. And
+The left also needs to wise up. That side of politics has always been afraid of
+a world in which authorities can whisper in the ears of powerful censors. And
 those fears are being realized, though perhaps not in the way that anyone
-expected. Today [skeptics of drug companies][link], [Russia-friendly
-doves][link] and even [radical feminists][link] are becoming associated with
-the political right. Left-wingers who imagine they are winning the culture war
-should observe that far from their ideas taking over the centers of power, those
-centers are taking over the left.
+expected. Today [skeptics of drug companies][wiki-rfk], [Russia-friendly
+doves][wiki-gg] and even [radical feminists][wiki-ks] are becoming associated
+with the political right. Left-wingers who imagine they are winning the culture
+war should observe that far from their ideas taking over the centers of power,
+those centers are taking over the left.
+
+[wiki-rfk]: https://en.wikipedia.org/wiki/Robert_F._Kennedy
+[wiki-gg]: https://en.wikipedia.org/wiki/Glenn_Greenwald
+[wiki-ks]: https://en.wikipedia.org/wiki/Kathleen_Stock
 
 With luck, liberal forces on the right and left can hold back this particular
 law. But there's no need to just stay on the defensive. If there is a political
